@@ -1,5 +1,5 @@
 {
-    "guncellenme_tarihi": "2026-04-26 16:26:50",
+    "guncellenme_tarihi": "2026-04-26 16:45:31",
     "marketler": {
         "sok": [
             {
@@ -141,6 +141,3380 @@
                 "isim": "Amigo Nacho Peynir Çeşnili Mısır Cipsi 130 g",
                 "fiyat": 32,
                 "resim": "https://images.ceptesok.com/product-assets/sub-folder/e6646527-875f-4b28-a77d-40293c43777e.png"
+            },
+            {
+                "id": "677680",
+                "market": "ŞOK",
+                "isim": "Doritos Avantaj Paketi 346 Gr",
+                "fiyat": 89.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/624ca8e7-5509-4863-bf27-edce3724b3f3.jpg"
+            },
+            {
+                "id": "653254",
+                "market": "ŞOK",
+                "isim": "Doritos Turca Haşhaş Domates 130 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/62dba798-c51a-4c9f-95a2-2ef2da7e746c.jpg"
+            },
+            {
+                "id": "646674",
+                "market": "ŞOK",
+                "isim": "Çerezos Ultra Dev Boy Acı Baharat Mısır Çerezi 150 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/21fc514b-7583-4273-b5cb-6a4fda6ee642.jpg"
+            },
+            {
+                "id": "637030",
+                "market": "ŞOK",
+                "isim": "Patos Rolls Chili&Lime Mısır Cipsi 135 g",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/89530271-3fc9-41ab-acfa-5879ceedfcb7.jpg"
+            },
+            {
+                "id": "471690",
+                "market": "ŞOK",
+                "isim": "Patos Rolls Acı Kırmızı Biber Aromalı 135 g",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3ca5a71a-295e-436d-9cb8-7d5db110b5b2.png"
+            },
+            {
+                "id": "471691",
+                "market": "ŞOK",
+                "isim": "Patos Acı Baharat Aromalı 135 g",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/054f355b-674e-4023-8a7d-e414ed98a707.jpg"
+            },
+            {
+                "id": "430929",
+                "market": "ŞOK",
+                "isim": "Ülker Krispi Pops Süt Mısırı Aromalı 40 g",
+                "fiyat": 19.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/93c6dff1-0f9b-4c80-986e-0f1a11713fc2.jpg"
+            },
+            {
+                "id": "416690",
+                "market": "ŞOK",
+                "isim": "Doritos Nacho Peynirli 135 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8ce74c22-d8a4-45ba-8c9e-25d85527be6b.png"
+            },
+            {
+                "id": "416571",
+                "market": "ŞOK",
+                "isim": "Doritos Taco Baharatlı 135 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/76fcd0ce-c0ef-4bf2-9aaa-94fcd72db399.png"
+            },
+            {
+                "id": "417610",
+                "market": "ŞOK",
+                "isim": "Lay's Fırından Yoğurt Mevsim Yeşillikli 110 g",
+                "fiyat": 59,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c9a34887-ae00-48d7-9507-df5651c3139b.png"
+            },
+            {
+                "id": "416689",
+                "market": "ŞOK",
+                "isim": "Doritos Hot Corn Acı Biberli 130 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/72ff94b9-f979-412d-ba6a-7a2ae21bdae9.png"
+            },
+            {
+                "id": "415630",
+                "market": "ŞOK",
+                "isim": "Lay's Baharatlı 125 g",
+                "fiyat": 59,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8784374b-0595-4ef2-bb3d-1ac0171c3e37.png"
+            },
+            {
+                "id": "146205",
+                "market": "ŞOK",
+                "isim": "Doritos Shots 3*42 G",
+                "fiyat": 30,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0b2f164a-a704-488a-9999-e2267b53dcc8.png"
+            },
+            {
+                "id": "46268",
+                "market": "ŞOK",
+                "isim": "Çerezza Sinema Peynir & Soğan Parti Boy",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3e489790-849d-4e6e-b181-277ff790cd69.png"
+            },
+            {
+                "id": "7684",
+                "market": "ŞOK",
+                "isim": "Patos Taco Baharatlı Cips 185 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/556cb863-f496-4694-97da-a945dd81cec7.jpg"
+            },
+            {
+                "id": "6629",
+                "market": "ŞOK",
+                "isim": "Patos Acı Baharatlı 185 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b833406e-59c3-45c6-ac94-5e2d51d1d5c2.jpg"
+            },
+            {
+                "id": "4864",
+                "market": "ŞOK",
+                "isim": "Patos Kritos Peynirli Süper Boy 115 g",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/82c00bbd-c445-46da-b7c7-f87fdad7d101.png"
+            },
+            {
+                "id": "6927",
+                "market": "ŞOK",
+                "isim": "Amigo Pop Corn Patlamış Mısır 60 g",
+                "fiyat": 24.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fd83b1a2-e472-4b17-a5ba-f6da5e5e24a7.png"
+            },
+            {
+                "id": "142127",
+                "market": "ŞOK",
+                "isim": "Eti Gong Pops Karışık Baharat 110 g",
+                "fiyat": 54.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/601da45f-a898-4339-af01-a43c0eacff6e.jpg"
+            },
+            {
+                "id": "4766",
+                "market": "ŞOK",
+                "isim": "Amigo Süt Mısırı Çeşnili Mısır Çerez 130 g",
+                "fiyat": 32,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1d1b2c4c-85f6-4c70-bda8-54fad384ebfa.png"
+            },
+            {
+                "id": "700451",
+                "market": "ŞOK",
+                "isim": "Cheetos Antep Fıstığı Aromalı Mısır Cipsi 75 g",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0d288f7a-3daf-4ba2-995f-96a1da0114d9.png"
+            },
+            {
+                "id": "535273",
+                "market": "ŞOK",
+                "isim": "Cheetos Fırından Fıstıklı 75 G",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3a6294cf-753f-4a2f-b6f6-7e6ee9976355.jpg"
+            },
+            {
+                "id": "470765",
+                "market": "ŞOK",
+                "isim": "Munchiz Cheddar Peynir Aromalı Mısır Cipsi 35 G",
+                "fiyat": 14.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7d1f7867-78ee-4443-81f3-4cf0e8aa9654.png"
+            },
+            {
+                "id": "8738",
+                "market": "ŞOK",
+                "isim": "Çerezza 3'lü 103 g",
+                "fiyat": 42,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fea33576-f39f-41d1-a60f-4e04f34539fc.png"
+            },
+            {
+                "id": "4173",
+                "market": "ŞOK",
+                "isim": "Cheetos Mega Peynir Aromalı Mısır Çerezi 80 g",
+                "fiyat": 34.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2928ea0f-b14d-4327-aaa9-6c1c905a3480.png"
+            },
+            {
+                "id": "1976",
+                "market": "ŞOK",
+                "isim": "Cheetos Mini Shots Süt Mısır 3*14 g",
+                "fiyat": 19,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/34befcf9-04a2-40d0-ae6b-8f1e17dc9dcc.png"
+            },
+            {
+                "id": "918",
+                "market": "ŞOK",
+                "isim": "Cheetos Fırından 60 g 3'lü Paket",
+                "fiyat": 36,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d53d94ca-87c1-46ae-bfb4-8dc4731d3ef4.png"
+            },
+            {
+                "id": "564311",
+                "market": "ŞOK",
+                "isim": "Pukka Glutensiz Sade Patates Cipsi 70 g",
+                "fiyat": 53,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/88e59c89-f3e4-4988-abd0-7dca9b3ad554.png"
+            },
+            {
+                "id": "430012",
+                "market": "ŞOK",
+                "isim": "Ülker Krispi Pops Peynirli Mısır Çerezi 40 g",
+                "fiyat": 19.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3fc21495-ab28-420d-9a41-c50258aaa2a3.jpg"
+            },
+            {
+                "id": "68304",
+                "market": "ŞOK",
+                "isim": "Çerezza Kokteyl Süper Boy 110 g",
+                "fiyat": 49.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1c16675c-9166-4965-9ac2-b3f412528ed1.jpg"
+            },
+            {
+                "id": "34649",
+                "market": "ŞOK",
+                "isim": "Patos Rolls Acı Kırmızı Biber 185 G",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/99bac66a-5674-4eb9-ac5d-3a86131bd887.png"
+            },
+            {
+                "id": "9200",
+                "market": "ŞOK",
+                "isim": "Amigo İri Boy Tuzsuz Ay Çekirdeği 400 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f5fda05b-bb49-4cec-87a8-8e98ca0da8e1.png"
+            },
+            {
+                "id": "5278",
+                "market": "ŞOK",
+                "isim": "Amigo İç Ay Çekirdeği 100 g",
+                "fiyat": 18.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/047d4081-b0f9-41f7-b350-b6f209a0da9a.png"
+            },
+            {
+                "id": "3985",
+                "market": "ŞOK",
+                "isim": "Amigo Tuzlu Ay Çekirdeği İri Boy 400 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/40991022-0e7d-40ff-8a56-aa5d79b11d2d.png"
+            },
+            {
+                "id": "2702",
+                "market": "ŞOK",
+                "isim": "Amigo Siyah Tuzsuz Ay Çekirdeği 400 g",
+                "fiyat": 42.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cd3f3047-dfb9-40cb-9f40-4388cff87eb4.png"
+            },
+            {
+                "id": "2792",
+                "market": "ŞOK",
+                "isim": "Amigo Siyah Tuzlu Ay Çekirdeği 400 g",
+                "fiyat": 42.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e72a3928-cee4-4eb3-9a92-a7949d06c2b5.png"
+            },
+            {
+                "id": "1704",
+                "market": "ŞOK",
+                "isim": "Amigo Tuzsuz Siyah Çekirdek 1 kg",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c6afd5c7-08a5-42b3-a2ad-78af76e9ec7c.png"
+            },
+            {
+                "id": "1889",
+                "market": "ŞOK",
+                "isim": "Amigo Tuzlu Siyah Çekirdek 1 kg",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ed2d4d07-9834-4d80-a2b4-8fb2ee19d8cf.png"
+            },
+            {
+                "id": "8434",
+                "market": "ŞOK",
+                "isim": "Amigo Soslu Mısır 150 g",
+                "fiyat": 22,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2b2ff71b-158b-4365-b951-c120a64b67a0.png"
+            },
+            {
+                "id": "7198",
+                "market": "ŞOK",
+                "isim": "Amigo Badem İçi 150 g",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7c33836e-13c0-4807-bda4-8a5eda4efcdb.png"
+            },
+            {
+                "id": "6392",
+                "market": "ŞOK",
+                "isim": "Amigo Dalından Çiğ Badem 150 g",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2943df07-f335-49bb-83ef-5a46cc03f27e.png"
+            },
+            {
+                "id": "6061",
+                "market": "ŞOK",
+                "isim": "Amigo Karışık Kuruyemiş 150 g",
+                "fiyat": 129,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2a325a4f-0d1f-45cc-88ee-64e5c4e4c874.png"
+            },
+            {
+                "id": "5696",
+                "market": "ŞOK",
+                "isim": "Amigo Lüks Kabuksuz Karışık Kuruyemiş 200 g",
+                "fiyat": 195,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1d9c1dab-ae6f-4bf0-b41a-bf30267e87f3.png"
+            },
+            {
+                "id": "580174",
+                "market": "ŞOK",
+                "isim": "Amigo Thai Chilli Aromalı Soslu Yer Fıstığı 100 g",
+                "fiyat": 24.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/818ac9f1-24ab-4f75-94b7-ca047b25b037.jpg"
+            },
+            {
+                "id": "7513",
+                "market": "ŞOK",
+                "isim": "Amigo Ceviz İçi 150 g",
+                "fiyat": 109,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/90b21781-2f2a-4003-86af-e5fa02b8b2a2.png"
+            },
+            {
+                "id": "6105",
+                "market": "ŞOK",
+                "isim": "Amigo Antep Fıstığı 150 g",
+                "fiyat": 195,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9180dba4-8f73-4ffc-b7f2-a9b8b16b4036.jpg"
+            },
+            {
+                "id": "6050",
+                "market": "ŞOK",
+                "isim": "Amigo Kaju Fıstığı 150 g",
+                "fiyat": 95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ea9a851e-aea8-41a6-a1a3-d88eeaaf0f6c.png"
+            },
+            {
+                "id": "3838",
+                "market": "ŞOK",
+                "isim": "Ceviz Kabuklu Kg",
+                "fiyat": 249,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/665fec45-b80a-4ada-a91d-c2edbf7bfaaa.png"
+            },
+            {
+                "id": "8465",
+                "market": "ŞOK",
+                "isim": "Amigo Fındık İçi 150 g",
+                "fiyat": 188,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4b1d3eea-c119-48cc-b67e-febbf1aa6465.png"
+            },
+            {
+                "id": "8085",
+                "market": "ŞOK",
+                "isim": "Amigo Dalından Çiğ Fındık 150 g",
+                "fiyat": 153,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9ab41bf7-797e-4975-a87c-a86e6d66aeab.png"
+            },
+            {
+                "id": "2962",
+                "market": "ŞOK",
+                "isim": "Amigo Kıyılmış Fındık 100 Gr",
+                "fiyat": 89.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f91b62e8-fd2a-4043-a557-b301cfc684b1.png"
+            },
+            {
+                "id": "523780",
+                "market": "ŞOK",
+                "isim": "Amigo Siirt Fıstığı 150 G",
+                "fiyat": 159,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/28e4de60-db69-40fc-ac65-aaaeb815cfd1.png"
+            },
+            {
+                "id": "31145",
+                "market": "ŞOK",
+                "isim": "Tuzlu Kabuklu Fıstık Kg",
+                "fiyat": 119,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/49bdd84f-ca9c-421c-9247-8d71ca66464c.png"
+            },
+            {
+                "id": "8418",
+                "market": "ŞOK",
+                "isim": "Amigo Kabuklu Yer Fıstığı 500 g",
+                "fiyat": 78,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9e517601-48fe-43a8-b5e5-e235472db980.png"
+            },
+            {
+                "id": "8388",
+                "market": "ŞOK",
+                "isim": "Amigo Soslu Cips Fıstık 200 g",
+                "fiyat": 32.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/49fac3b3-7104-4d03-8f9f-d79d9368287e.png"
+            },
+            {
+                "id": "7199",
+                "market": "ŞOK",
+                "isim": "Amigo Tuzlu Fıstık 200 g",
+                "fiyat": 47.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cf2f5ed1-ce8a-443d-9d44-099381390fe7.png"
+            },
+            {
+                "id": "5810",
+                "market": "ŞOK",
+                "isim": "Amigo Kızarmış Yer Fıstığı 150 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/448367ea-fa7f-4457-804a-df58fc5742a4.png"
+            },
+            {
+                "id": "2833",
+                "market": "ŞOK",
+                "isim": "Amigo Boncuk Fıstık 200 g",
+                "fiyat": 34.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/30e0ba34-7440-44e5-a0e0-b0a99f3c8d82.png"
+            },
+            {
+                "id": "7200",
+                "market": "ŞOK",
+                "isim": "Amigo Sarı Leblebi 200 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4423c636-b13d-41bf-af30-c680afd2bfbe.png"
+            },
+            {
+                "id": "7074",
+                "market": "ŞOK",
+                "isim": "Amigo Beyaz Leblebi 200 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/083dba81-9c7c-4551-a15b-7f4db3d4dee5.png"
+            },
+            {
+                "id": "392442",
+                "market": "ŞOK",
+                "isim": "Amigo Mısır Kavurgası 200 g",
+                "fiyat": 29.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cf520509-8bbd-455a-a436-aff67041cf23.png"
+            },
+            {
+                "id": "8519",
+                "market": "ŞOK",
+                "isim": "Amigo Kabak Çekirdeği 200 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/98146f89-713a-42b6-9271-b7cf85b44042.png"
+            },
+            {
+                "id": "573569",
+                "market": "ŞOK",
+                "isim": "Karmen Çilek Aromalı&Yoğurtlu Sütlü Çikolata 100 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0a1b067b-3539-45ae-9513-edd4e0f5235c.jpg"
+            },
+            {
+                "id": "573568",
+                "market": "ŞOK",
+                "isim": "Karmen %85 Kakao Bitter Çikolata 100 g",
+                "fiyat": 79,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a990ca58-2ea3-4343-8035-d6ab1f9bdc73.jpg"
+            },
+            {
+                "id": "528651",
+                "market": "ŞOK",
+                "isim": "Karmen Bol Sütlü Çikolata 33 g",
+                "fiyat": 29,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/40d3da14-0c9b-4915-953c-972b45a52ea0.jpg"
+            },
+            {
+                "id": "127179",
+                "market": "ŞOK",
+                "isim": "Karmen Bütün Fındıklı Sütlü Çikolata 100 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a21e3981-e020-4b75-a0bf-ea900be17505.jpg"
+            },
+            {
+                "id": "8730",
+                "market": "ŞOK",
+                "isim": "Karmen Fındıklı Çikolata 80 g",
+                "fiyat": 52.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/278208ed-bf88-48f2-953e-7d8d4d0b2e56.jpg"
+            },
+            {
+                "id": "7402",
+                "market": "ŞOK",
+                "isim": "Karmen Bitter Çikolata 80 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/efcdf615-460d-445b-9bbd-811f1d279036.jpg"
+            },
+            {
+                "id": "7403",
+                "market": "ŞOK",
+                "isim": "Karmen Antep Fıstıklı Çikolata 80 g",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/65e9d5ed-a387-47a8-9bfd-d62322e79e34.jpg"
+            },
+            {
+                "id": "5913",
+                "market": "ŞOK",
+                "isim": "Karmen Sütlü Çikolata 80 g",
+                "fiyat": 49,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/53713cb1-968b-43a8-9fb3-f77b7f14919b.jpg"
+            },
+            {
+                "id": "699421",
+                "market": "ŞOK",
+                "isim": "Capybara Muz Krema Dolgulu Çikolata 60 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/eaf6534a-de3d-4fbf-8e22-6373a8394f9e.jpg"
+            },
+            {
+                "id": "700452",
+                "market": "ŞOK",
+                "isim": "Capybara Çilek Krema Dolgulu Çikolata 60 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4374bf36-1668-4ef6-8bdf-3a1eecac83ce.jpg"
+            },
+            {
+                "id": "621227",
+                "market": "ŞOK",
+                "isim": "Beyoğlu Dubaco Kadayıflı Ve Fındıklı 200 g",
+                "fiyat": 199,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/584a3ef7-e410-48a5-8a9e-bc1a96eb40aa.jpg"
+            },
+            {
+                "id": "591267",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata İstanbul Fındıklı 35 g",
+                "fiyat": 22.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3ea786c2-7d23-4072-87e1-0a5f640eea13.png"
+            },
+            {
+                "id": "582025",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Nello 33 g",
+                "fiyat": 34.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c26a3d29-950b-4907-a17c-f045cb194d53.jpg"
+            },
+            {
+                "id": "571709",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata İstanbul Fındıklı 93 g",
+                "fiyat": 110,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bcd4113d-a9be-400d-b48f-8a39f619be55.png"
+            },
+            {
+                "id": "299432",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata Meşhur Dubai Lezzeti 93 g",
+                "fiyat": 123,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9f7c1e62-7fa5-496c-84d8-26acd02c442e.png"
+            },
+            {
+                "id": "280903",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata Ballı Bademli Krokanlı 60 G",
+                "fiyat": 72,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f3c847a4-d247-4deb-a38b-c4156f6b25c0.png"
+            },
+            {
+                "id": "9086",
+                "market": "ŞOK",
+                "isim": "Godiva Tuzlu Karamelli Çikolata 60 Gr",
+                "fiyat": 74.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/540dad61-1398-4f24-9510-37c771bf9bec.png"
+            },
+            {
+                "id": "8638",
+                "market": "ŞOK",
+                "isim": "Nestle Damak Kare Antep Fıstıklı Çikolata 60 g",
+                "fiyat": 110,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c3b42f18-4d53-439b-a832-8668e9bf5d89.png"
+            },
+            {
+                "id": "8504",
+                "market": "ŞOK",
+                "isim": "Ülker Caramio Karamelli Kare Çikolata 55 g",
+                "fiyat": 44.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1bba6955-c50c-4959-83e5-2004b830868a.png"
+            },
+            {
+                "id": "8225",
+                "market": "ŞOK",
+                "isim": "Ülker Baton Fıstıklı Çikolata 30 g",
+                "fiyat": 52.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a613d44f-ca65-41a4-b7ef-191e9538bc55.png"
+            },
+            {
+                "id": "6592",
+                "market": "ŞOK",
+                "isim": "Godiva Bol Sütlü Çikolata 60 g",
+                "fiyat": 74.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5119fc9a-c288-4b91-81f7-41eeb78b6f3a.png"
+            },
+            {
+                "id": "6593",
+                "market": "ŞOK",
+                "isim": "Godiva Antep Fıstıklı Karamel Çikolata 60 g",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4b2c702d-d0e7-4173-9673-f03bd9053fe5.png"
+            },
+            {
+                "id": "4916",
+                "market": "ŞOK",
+                "isim": "Milka Oreo Çikolata 100 g",
+                "fiyat": 89.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f3adad89-7de0-406e-a778-7379c350110e.jpg"
+            },
+            {
+                "id": "4699",
+                "market": "ŞOK",
+                "isim": "Ülker Sütlü Kare Çikolata 60 g",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2b1fa025-e3ed-473b-b58d-f731616318f4.png"
+            },
+            {
+                "id": "3568",
+                "market": "ŞOK",
+                "isim": "Milka Çilekli Yoğurtlu Çikolata 100 g",
+                "fiyat": 89.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/50a198b3-f69e-4340-8cf7-b29c9917789e.png"
+            },
+            {
+                "id": "4589",
+                "market": "ŞOK",
+                "isim": "Ülker %60 Bitter Kare Çikolata 60 g",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e2581ed3-e4ff-4d68-a435-1b0ce02ee646.png"
+            },
+            {
+                "id": "4592",
+                "market": "ŞOK",
+                "isim": "Ülker Antep Fıstıklı Kare Çikolata 65 g",
+                "fiyat": 103,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/88c98532-4dba-41e8-8602-cbaf1568fbc1.png"
+            },
+            {
+                "id": "4021",
+                "market": "ŞOK",
+                "isim": "Ülker Sütlü Çikolata 70 g",
+                "fiyat": 80,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4335e7be-8ad9-48e3-84c2-b370d87028bc.png"
+            },
+            {
+                "id": "2968",
+                "market": "ŞOK",
+                "isim": "Raffaello Çikolata 4'lü 40 Gr",
+                "fiyat": 49.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/33a0ca8a-87c9-46f4-96a4-28c786190c05.png"
+            },
+            {
+                "id": "2941",
+                "market": "ŞOK",
+                "isim": "Ülker Fındık Rüyası Kare Çikolata 75 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ff40d654-3c29-4064-83f0-e2ef67b80deb.png"
+            },
+            {
+                "id": "2366",
+                "market": "ŞOK",
+                "isim": "Ülker Fındıklı Çikolata 60 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/aac5824c-2838-47c2-8e4b-18243b32ed34.png"
+            },
+            {
+                "id": "931",
+                "market": "ŞOK",
+                "isim": "Eti Karam Bitter %70 Kakao Çikolata 60 g",
+                "fiyat": 67,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e1d71481-0915-4336-abc4-4211d340dcf5.png"
+            },
+            {
+                "id": "933",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata Bitter %80 Kakao 60 g",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/77eb3acd-95e2-43bd-85f6-a1e76e7b7273.png"
+            },
+            {
+                "id": "271",
+                "market": "ŞOK",
+                "isim": "Ülker Beyaz Çikolata 70 g",
+                "fiyat": 92.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/01df85f1-d530-4a51-ae02-f20cf02906ba.png"
+            },
+            {
+                "id": "268",
+                "market": "ŞOK",
+                "isim": "Ülker Fındıklı Üzümlü Sütlü Çikolata 60 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4bb8064b-2514-4507-afb2-3118192aa3f3.png"
+            },
+            {
+                "id": "613832",
+                "market": "ŞOK",
+                "isim": "Karmen Şeker İlavesiz Sütlü Çikolata 100 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8955f402-e593-4f71-abc9-51f020d39677.jpg"
+            },
+            {
+                "id": "718656",
+                "market": "ŞOK",
+                "isim": "Beyoğlu Popping Patlayan Şeker Sütlü Çikolata 35 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5a40afc1-3a59-4779-a6bc-bddb808bc12a.jpg"
+            },
+            {
+                "id": "700350",
+                "market": "ŞOK",
+                "isim": "Mr.Beast Milk Chocolate 60 g",
+                "fiyat": 149,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/73c4c596-9905-4e12-b276-6a9d1aef0281.jpg"
+            },
+            {
+                "id": "700468",
+                "market": "ŞOK",
+                "isim": "Mr.Beast Milk Crunch Chocolate 60 g",
+                "fiyat": 149,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/19a795bc-acbf-4a35-b7be-0edb404812b7.jpg"
+            },
+            {
+                "id": "377",
+                "market": "ŞOK",
+                "isim": "Karmen Tablet Beyaz Çikolata 80 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/68c32b3c-611b-4e8d-aa49-f3e826a552d8.jpg"
+            },
+            {
+                "id": "718657",
+                "market": "ŞOK",
+                "isim": "Mıskets Renkli Drajeli Sütlü Çikolata 180 g",
+                "fiyat": 129,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/26a2c333-1500-4daf-9da8-28fc9ed81c07.jpg"
+            },
+            {
+                "id": "719579",
+                "market": "ŞOK",
+                "isim": "Mıskets Orman Meyveli Sütlü Çikolata 180 g",
+                "fiyat": 129,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/01557e39-caa6-493f-81de-25076cf55aec.jpg"
+            },
+            {
+                "id": "583864",
+                "market": "ŞOK",
+                "isim": "Miskets Labeby Figürlü Çikolata 60 g",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/520106dc-f4a1-4d4a-b5f1-eda5bdd211ad.jpg"
+            },
+            {
+                "id": "5829",
+                "market": "ŞOK",
+                "isim": "Ozmo Fun Figürlü Çikolata 23 g",
+                "fiyat": 24.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/11db88e4-3027-4878-b873-1b5f6fa16bc3.png"
+            },
+            {
+                "id": "707196",
+                "market": "ŞOK",
+                "isim": "Tempo Fındıklı Susam Krokan 80 G",
+                "fiyat": 34.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c2eae1d8-ff0f-4d2d-b3d9-803c93c275ac.jpg"
+            },
+            {
+                "id": "8731",
+                "market": "ŞOK",
+                "isim": "Karmen Fındıklı Çikolata 40 g",
+                "fiyat": 27,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/49c6b3a5-24ab-4298-b300-3c76f3559d25.png"
+            },
+            {
+                "id": "8513",
+                "market": "ŞOK",
+                "isim": "Karmen Nuga Bar 35 g",
+                "fiyat": 12,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/25044958-2466-472b-97a2-b31d82e10502.png"
+            },
+            {
+                "id": "5907",
+                "market": "ŞOK",
+                "isim": "Karmen Hindistan Cevizli Bar 25 g",
+                "fiyat": 9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fe081095-0e5d-4bd7-9615-91f5b5909b4e.png"
+            },
+            {
+                "id": "5467",
+                "market": "ŞOK",
+                "isim": "Karmen Tane Fındıklı Gofret 33 g",
+                "fiyat": 16,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/122ec1a7-0237-4c03-a142-2214c0a9ad30.png"
+            },
+            {
+                "id": "4730",
+                "market": "ŞOK",
+                "isim": "Karmen Bandır Fındık Kreması&grissini 52 g",
+                "fiyat": 18.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cd910482-a65a-4509-aa3e-2ba49d914371.png"
+            },
+            {
+                "id": "2858",
+                "market": "ŞOK",
+                "isim": "Karmen Couple Çikolata Kaplama Karamel Bisküvi 42 g",
+                "fiyat": 13.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b33d9791-6d87-4c31-8238-b7d225ca00a9.png"
+            },
+            {
+                "id": "1493",
+                "market": "ŞOK",
+                "isim": "Karmen Bütün %20 Bademli Bitter Çikolata 80 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d00b9f22-da3b-4a86-82dd-11e72c8b386f.png"
+            },
+            {
+                "id": "1621",
+                "market": "ŞOK",
+                "isim": "Karmen Bütün %20 Bademli Sütlü Çikolata 80 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bfbeba95-7733-4831-b3a4-346b9d8eb862.png"
+            },
+            {
+                "id": "717734",
+                "market": "ŞOK",
+                "isim": "Delisana Vişne Aromalı Kek 125 g",
+                "fiyat": 64.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/57aa5b13-a2c5-4e4c-be13-a787c2e01801.jpg"
+            },
+            {
+                "id": "708121",
+                "market": "ŞOK",
+                "isim": "Cino Sütlü Çikolatalı Hindistan Cevizli Bar 250 G",
+                "fiyat": 69.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/af557f4d-5c24-43ba-9caf-db8b6b78b4d8.jpg"
+            },
+            {
+                "id": "683364",
+                "market": "ŞOK",
+                "isim": "Twix Çikolata 50 g",
+                "fiyat": 44.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4f842fa8-853c-4d5b-9a5b-8be4f2e45c0a.png"
+            },
+            {
+                "id": "675847",
+                "market": "ŞOK",
+                "isim": "Şölen Lokkum Antep Fıstıklı 300 g",
+                "fiyat": 229,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7501967e-56f2-48c7-b518-635bf9423bac.png"
+            },
+            {
+                "id": "674920",
+                "market": "ŞOK",
+                "isim": "Şölen Vital Karışık Poşet 300 g",
+                "fiyat": 229,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/805c920b-e3b8-4a16-ae3f-53d3f3185ed4.png"
+            },
+            {
+                "id": "675839",
+                "market": "ŞOK",
+                "isim": "Cino Sütlü Çikolata Kaplı Karışık Meyve Bar 250 g",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/94594cad-726d-494a-9ba2-066da6d0100b.jpg"
+            },
+            {
+                "id": "660919",
+                "market": "ŞOK",
+                "isim": "Nestle Lion Peanut 41 G",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9d3b1acf-911f-4739-a962-70d22f0f5b6a.jpg"
+            },
+            {
+                "id": "660918",
+                "market": "ŞOK",
+                "isim": "Nestle Lion Brownie Style 40 G",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c5f450fb-d245-4726-b55f-8d66e39dfd98.jpg"
+            },
+            {
+                "id": "624506",
+                "market": "ŞOK",
+                "isim": "Tadelle Fındık Dolgulu Bitter Çikolata 3'lü 90 G",
+                "fiyat": 89.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/60b2fe8a-b0e0-4d1d-a3d4-6e4312f6ff46.jpg"
+            },
+            {
+                "id": "604201",
+                "market": "ŞOK",
+                "isim": "Fellas Dört Tohumlu Granola Bar 3'lü 69 g",
+                "fiyat": 59.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1a3d6fee-f36e-4236-b0bf-1e6bf448b574.png"
+            },
+            {
+                "id": "602371",
+                "market": "ŞOK",
+                "isim": "Fellas Kırmızı Meyveli Granola Bar 3'lü 69 g",
+                "fiyat": 59.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6d958ffb-cdcc-449b-bf36-b8b60e25c476.png"
+            },
+            {
+                "id": "584777",
+                "market": "ŞOK",
+                "isim": "Dido Nut Fındıklı Gofret 35 g",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f2f15bed-79df-47d2-89f9-bd58a7a0f99d.jpg"
+            },
+            {
+                "id": "573567",
+                "market": "ŞOK",
+                "isim": "Ülker Baton Meşhur Dubai Çikolatası 35 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3037fe5b-133a-41dd-974b-0ee2207ae662.png"
+            },
+            {
+                "id": "556794",
+                "market": "ŞOK",
+                "isim": "Nutella Go Kakaolu Fındık Kreması & Grissini 28 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/739509ce-d937-4a6b-af3f-5ccbec300821.jpg"
+            },
+            {
+                "id": "451135",
+                "market": "ŞOK",
+                "isim": "Cino Portakallı Çikolatalı Bar 25 g",
+                "fiyat": 8.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2231860e-f2d8-40c8-b50f-7e9473942e5d.jpg"
+            },
+            {
+                "id": "430931",
+                "market": "ŞOK",
+                "isim": "Ülker Laviva Selection Antep Fıstıklı Gofret 45 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/13dc8aec-b44c-445f-98c5-22587d4cbc90.png"
+            },
+            {
+                "id": "423531",
+                "market": "ŞOK",
+                "isim": "Şölen Ozmo Mini Eggs 154 g",
+                "fiyat": 145,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/94723790-674c-4b90-84c6-2687ef2cf2c7.jpg"
+            },
+            {
+                "id": "361841",
+                "market": "ŞOK",
+                "isim": "Bounty Hindistan Cevizli Çikolata 57 g",
+                "fiyat": 54.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1f923fc1-8716-4122-a666-a5e8cc4cf3c9.jpg"
+            },
+            {
+                "id": "308381",
+                "market": "ŞOK",
+                "isim": "Ülker Laviva Selection Sütlü Çikolatalı Gofret 45 g",
+                "fiyat": 19.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bc1eb658-c1c9-4fed-8c85-0b36d9796dee.png"
+            },
+            {
+                "id": "262025",
+                "market": "ŞOK",
+                "isim": "Eti Canga Cookie 45 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/10d0cd87-07fe-405e-ba0f-dc1318615c89.jpg"
+            },
+            {
+                "id": "49775",
+                "market": "ŞOK",
+                "isim": "Biscolata Stix Sütlü 40 g",
+                "fiyat": 29.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/920e294e-ea06-4767-96c3-7568bc25e57f.png"
+            },
+            {
+                "id": "8772",
+                "market": "ŞOK",
+                "isim": "Ülker Hobby Fındıklı Bar 250 g",
+                "fiyat": 100,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d0e902b5-a17b-4f74-bbc6-f843fd3195d7.png"
+            },
+            {
+                "id": "8715",
+                "market": "ŞOK",
+                "isim": "Snickers Bar 50 g",
+                "fiyat": 39.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/672e1328-69ce-439d-9934-bb8950f354ac.png"
+            },
+            {
+                "id": "8703",
+                "market": "ŞOK",
+                "isim": "Eti Canga 45 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/84723978-5472-4f14-8728-c16ef6bf60af.png"
+            },
+            {
+                "id": "8178",
+                "market": "ŞOK",
+                "isim": "Ülker Coco Star Hindistan Cevizli 25 g",
+                "fiyat": 9.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8ef85d2c-4702-4c75-a3b9-676460328742.png"
+            },
+            {
+                "id": "8078",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolata Fındık Rüyası 40,5 Gr",
+                "fiyat": 28.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/56ebdd66-7278-48f5-89f6-22830f0e6baa.png"
+            },
+            {
+                "id": "8153",
+                "market": "ŞOK",
+                "isim": "Piko Portakallı Pirinç Patlaklı Çikolata 18 g",
+                "fiyat": 7.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/36199609-b872-4cdd-ad5e-24443256c5f2.png"
+            },
+            {
+                "id": "7065",
+                "market": "ŞOK",
+                "isim": "Tadelle Fındık Dolgulu Sütlü Çikolata 30 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e076414d-8d8d-4ad2-a8aa-b634cecc9689.png"
+            },
+            {
+                "id": "7052",
+                "market": "ŞOK",
+                "isim": "Ülker Laviva 35 g",
+                "fiyat": 27.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/694fa541-2a00-43f3-9b5e-a1477e7c98fd.png"
+            },
+            {
+                "id": "6512",
+                "market": "ŞOK",
+                "isim": "Kinder Bueno Çikolata 43 g",
+                "fiyat": 44.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b925b55d-006e-41ec-a94c-f769eefcfda0.jpg"
+            },
+            {
+                "id": "6395",
+                "market": "ŞOK",
+                "isim": "Ülker Çokomilk 24 g",
+                "fiyat": 6.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a57861a9-f073-4b02-9b1d-93d1a4e47bf4.png"
+            },
+            {
+                "id": "6109",
+                "market": "ŞOK",
+                "isim": "Kinder Bueno White Çikolata 43 G",
+                "fiyat": 44.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/231aea16-7494-4d56-8fce-8321b4c2032d.jpg"
+            },
+            {
+                "id": "5365",
+                "market": "ŞOK",
+                "isim": "Ülker Caramio Sütlü Çikolata 32 g",
+                "fiyat": 27.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/02d50e51-d2ca-47f6-a46a-10b0aa40fb62.png"
+            },
+            {
+                "id": "4946",
+                "market": "ŞOK",
+                "isim": "Ülker Metro 36 g",
+                "fiyat": 11.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4204b823-86fd-49b9-b9ee-89318e98cf3e.jpg"
+            },
+            {
+                "id": "4561",
+                "market": "ŞOK",
+                "isim": "Ülker Albeni 40 g",
+                "fiyat": 19.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6fe6ddac-6b26-47f1-94af-50a7a73d5e9d.png"
+            },
+            {
+                "id": "4326",
+                "market": "ŞOK",
+                "isim": "Tadelle Fındık Dolgulu Sütlü Çikolata 3'lü 90 g",
+                "fiyat": 89.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/25caf5f8-a2b5-4932-8014-dd89fee369df.png"
+            },
+            {
+                "id": "2549",
+                "market": "ŞOK",
+                "isim": "Eti Maximus Loading 50 g",
+                "fiyat": 22.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/31c7d769-074e-4347-8e20-a996a980f571.png"
+            },
+            {
+                "id": "1583",
+                "market": "ŞOK",
+                "isim": "Ülker Antep Fıstıklı Çikolata 14 g",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1273c922-f596-43be-8d2b-2957e3b8a0b0.png"
+            },
+            {
+                "id": "1270",
+                "market": "ŞOK",
+                "isim": "Torku Miniki Sütlü Nuga Bar 240 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8ad9a950-1412-4a0b-b59f-d3b860e9ada2.png"
+            },
+            {
+                "id": "687075",
+                "market": "ŞOK",
+                "isim": "Joytop Fastfood Surpriz Yumurta 20 g",
+                "fiyat": 24.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/77fda99f-473e-4b77-b861-694edf75f8a0.png"
+            },
+            {
+                "id": "647587",
+                "market": "ŞOK",
+                "isim": "Flipperz Paw Petrol Şeker 10 g",
+                "fiyat": 99.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/17323c0b-f3e4-4e57-9ffa-ace629ea5f78.png"
+            },
+            {
+                "id": "630441",
+                "market": "ŞOK",
+                "isim": "Vantipop Hello Kitty ve Arkadaşları 20 g",
+                "fiyat": 69.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2400c1e3-9e1f-4a89-a5df-ca950e0350f4.jpg"
+            },
+            {
+                "id": "581076",
+                "market": "ŞOK",
+                "isim": "Joytop Fun Tubes Lolipop 11 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/461955a3-01ca-4bb9-b64f-bd1f9eb3e903.jpg"
+            },
+            {
+                "id": "8408",
+                "market": "ŞOK",
+                "isim": "Kinder Joy Yumurta Çikolata 20 g",
+                "fiyat": 36.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1cd8261b-86ec-424e-9418-838544c67137.png"
+            },
+            {
+                "id": "7651",
+                "market": "ŞOK",
+                "isim": "Cosby Fun Sürpriz Yumurta 20 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d5b476b0-79fa-42ba-9f3c-d58c843b10fb.png"
+            },
+            {
+                "id": "5876",
+                "market": "ŞOK",
+                "isim": "Ozmo Yumurta Kafalar 20 g",
+                "fiyat": 39.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/333b8658-c848-437a-aeda-d43c08c9c948.png"
+            },
+            {
+                "id": "5252",
+                "market": "ŞOK",
+                "isim": "Toy Toy Sürpriz Yumurta 2*20 g",
+                "fiyat": 47.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/80943679-0b95-40f3-bd4f-2abc6211aec8.png"
+            },
+            {
+                "id": "647599",
+                "market": "ŞOK",
+                "isim": "Dolci Peccati Kek Topları Mavi-Beyaz 320 g",
+                "fiyat": 275,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5e42dbca-e555-4779-8290-69e075430f24.jpg"
+            },
+            {
+                "id": "5830",
+                "market": "ŞOK",
+                "isim": "Elit Şemsiye Sütlü Çikolata 30 g",
+                "fiyat": 36.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7788226c-8ad7-4b16-8b55-e5f565f781d3.png"
+            },
+            {
+                "id": "4784",
+                "market": "ŞOK",
+                "isim": "Ülker Napoliten Sütlü Çikolata 33 g",
+                "fiyat": 32.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e25a1514-2f21-479a-9026-bbee43a52341.png"
+            },
+            {
+                "id": "352212",
+                "market": "ŞOK",
+                "isim": "Beyoğlu Dubai Çikolatası 200 g",
+                "fiyat": 199,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/365f05c0-9211-4aaa-a324-45583ed2ff29.png"
+            },
+            {
+                "id": "352211",
+                "market": "ŞOK",
+                "isim": "Beyoğlu Dubai Çikolatası 35 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c145ec93-f6d5-4000-889c-fc1b76e913dd.png"
+            },
+            {
+                "id": "51685",
+                "market": "ŞOK",
+                "isim": "Toffifee Çikolata 125 g",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3add6ba4-9cb6-42f8-9e39-b0be6b81e6eb.jpg"
+            },
+            {
+                "id": "2535",
+                "market": "ŞOK",
+                "isim": "Karmen Sütlü Çikolata Kaplı Çilek Draje 80 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/eaf9aacf-ca11-4827-93df-186cf9059bc3.jpg"
+            },
+            {
+                "id": "2642",
+                "market": "ŞOK",
+                "isim": "Karmen Bitter Çikolata Kaplı Çilek Draje 80 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5b3a356e-80ca-4e28-8606-dbad824afbc8.jpg"
+            },
+            {
+                "id": "715754",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Popçik Patırdak Çikolata 40 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/451cfbeb-7a32-4a8b-8788-ddbda39e7ef4.jpg"
+            },
+            {
+                "id": "689026",
+                "market": "ŞOK",
+                "isim": "Bonart Çikolata Kaplamalı Hurma 100 G",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/76835694-4301-4f83-82c5-d06039b9465c.png"
+            },
+            {
+                "id": "578180",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Karışık Kahveli Draje 60 G",
+                "fiyat": 69.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1af025d0-84da-4e93-a447-54efeabe6b59.jpg"
+            },
+            {
+                "id": "577264",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Sütlü Bademli Draje 60 G",
+                "fiyat": 79.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6edabe15-fe96-44f5-a97c-18dfbfedf66e.jpg"
+            },
+            {
+                "id": "578179",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Sütlü Fındık Draje 60 g",
+                "fiyat": 84.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c61177cc-e8cd-43fe-bcc8-acf44284ff6a.jpg"
+            },
+            {
+                "id": "7464",
+                "market": "ŞOK",
+                "isim": "Yupo Draje Tüp 3x20 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e916394b-a390-4233-a53e-7d614f1b17c4.png"
+            },
+            {
+                "id": "344199",
+                "market": "ŞOK",
+                "isim": "Karmen Pattix Kakaolu Gofret 30 g",
+                "fiyat": 11.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/191b5009-9ede-476d-ada4-e2e5e97978bd.png"
+            },
+            {
+                "id": "344198",
+                "market": "ŞOK",
+                "isim": "Karmen Pattix Hindistan Cevizli Gofret 28 g",
+                "fiyat": 11.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/45839625-7b7a-41ca-a3e6-21142f699a9d.png"
+            },
+            {
+                "id": "8732",
+                "market": "ŞOK",
+                "isim": "Karmen Fındıklı Gofret 32 g",
+                "fiyat": 16,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a1150dd8-df19-41a0-92e3-c26675d6d080.png"
+            },
+            {
+                "id": "7392",
+                "market": "ŞOK",
+                "isim": "Karmen Çikolata Gofret 38 g",
+                "fiyat": 11,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/025c60bf-09f3-4859-a2a3-af04407913e3.png"
+            },
+            {
+                "id": "3898",
+                "market": "ŞOK",
+                "isim": "Karmen Çokorulo Beyaz 18 g",
+                "fiyat": 9.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a0a80e28-c43d-4296-996a-ff92f89d5c97.jpg"
+            },
+            {
+                "id": "3775",
+                "market": "ŞOK",
+                "isim": "Karmen Çokorulo Sütlü 18 g",
+                "fiyat": 9.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2d3bd73c-1f4a-463d-ab62-ee06af633937.png"
+            },
+            {
+                "id": "715764",
+                "market": "ŞOK",
+                "isim": "Cc Sütlü Para Çikolata 33 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/309a3f7f-188b-4fcc-a12b-9a2aefc4daa7.jpg"
+            },
+            {
+                "id": "710889",
+                "market": "ŞOK",
+                "isim": "Şölen Ozmo Burger Bardak 110 g",
+                "fiyat": 64.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ff27b003-3003-4967-af82-63a89fbd8a2c.jpg"
+            },
+            {
+                "id": "578303",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Sütlü Kaşık Çikolata 6'lı 48 g",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/546c3c6e-de1d-4d81-b224-bc5f16cbf4e5.jpg"
+            },
+            {
+                "id": "577263",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Bitter Kaşık Çikolata 6'lı 48 g",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f4f41d53-8417-4d61-a610-1ce7953a3124.jpg"
+            },
+            {
+                "id": "522477",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolatalı Gofret Tablet 100 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2a1a8962-e74b-4241-b3f1-e6d4490cf518.jpg"
+            },
+            {
+                "id": "355112",
+                "market": "ŞOK",
+                "isim": "Ülker Çokonat Antep Fıstıklı 30 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4a0f200b-5c54-4681-beaa-4aeaf28a3bbb.jpg"
+            },
+            {
+                "id": "164060",
+                "market": "ŞOK",
+                "isim": "Nestle Damak Ala %25 Antep Fıstıklı Gofret 30 g",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f857be6f-ea18-433a-8e58-5ec76021158c.jpg"
+            },
+            {
+                "id": "44775",
+                "market": "ŞOK",
+                "isim": "Kahve Dünyası Gofrik Sütlü 33 g",
+                "fiyat": 49.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f2ace2f4-7a19-454f-9c4f-34b2b132996d.jpg"
+            },
+            {
+                "id": "8369",
+                "market": "ŞOK",
+                "isim": "Ülker Bitter Çikolatalı Gofret 36 g",
+                "fiyat": 16,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/da32e3dc-6244-4993-abbf-8151ea598286.png"
+            },
+            {
+                "id": "8100",
+                "market": "ŞOK",
+                "isim": "Eti Karam Gurme Gofret 50 g",
+                "fiyat": 21.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/93904386-a92d-4e15-bcbe-98f25cdf6064.png"
+            },
+            {
+                "id": "7754",
+                "market": "ŞOK",
+                "isim": "Ülker Dido Kare 55.5 g",
+                "fiyat": 45,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c2dcdb0b-3aa6-40f8-890e-af3ec487cfa7.png"
+            },
+            {
+                "id": "7394",
+                "market": "ŞOK",
+                "isim": "Ülker Dido 35 g",
+                "fiyat": 27.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/395fa54d-e492-48fd-9012-1879fbcde404.png"
+            },
+            {
+                "id": "7201",
+                "market": "ŞOK",
+                "isim": "Şölen Ozmo Kornet Fındıklı 25 g",
+                "fiyat": 15,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/53aed527-6b5f-4983-b651-52b2a77f5894.png"
+            },
+            {
+                "id": "7109",
+                "market": "ŞOK",
+                "isim": "Ülker Dido Gold Süt Reçeli Tadında 36 g",
+                "fiyat": 22.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/783b402c-30a6-46e9-9c31-4d281e70bf0a.png"
+            },
+            {
+                "id": "6094",
+                "market": "ŞOK",
+                "isim": "Nutymax Antep Fıstıklı Kremalı Gofret 44 g",
+                "fiyat": 39.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/40f912be-14ca-4d7a-904e-2d192c2df0ff.png"
+            },
+            {
+                "id": "4944",
+                "market": "ŞOK",
+                "isim": "Ülker Dido Trio 36.5 g",
+                "fiyat": 21.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/778c9360-7384-4599-a2a1-e6dbfb334a27.png"
+            },
+            {
+                "id": "4798",
+                "market": "ŞOK",
+                "isim": "Ülker Çokonat 33 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d36aa140-8bc7-4aed-b66d-98748a13dbcb.png"
+            },
+            {
+                "id": "2608",
+                "market": "ŞOK",
+                "isim": "Ülker Beyaz Çikolatalı Gofret Beyaz 35 g",
+                "fiyat": 16,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/39027bfe-b94c-456e-a91b-a1cb95ed5cd8.png"
+            },
+            {
+                "id": "2359",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolatalı Gofret 4'lü 144 g",
+                "fiyat": 63,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/821d4f22-b6fa-40f3-bf29-25a091cc3522.png"
+            },
+            {
+                "id": "976",
+                "market": "ŞOK",
+                "isim": "Nesquik Gofret 26.7 g",
+                "fiyat": 12.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2627f3de-2c35-4c6d-9c6e-d243fed6bfb2.png"
+            },
+            {
+                "id": "6970",
+                "market": "ŞOK",
+                "isim": "Ülker Rulokat 170 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/188dacc6-53c9-487f-8cd6-e935da8e125a.png"
+            },
+            {
+                "id": "8794",
+                "market": "ŞOK",
+                "isim": "Karmen Hindistan Cevizi Topları Bademli 150 g",
+                "fiyat": 74.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cb2829de-56ca-4674-a10d-1e2c45a39df4.png"
+            },
+            {
+                "id": "8362",
+                "market": "ŞOK",
+                "isim": "Peki Kakaolu Gofret 350 g",
+                "fiyat": 49.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e0ad4b54-da23-41b3-a1ff-5d3dbdd795fa.png"
+            },
+            {
+                "id": "7231",
+                "market": "ŞOK",
+                "isim": "Karmen Hindistan Cevizi Topları Bademli 30 g",
+                "fiyat": 19.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/16ab35fb-9070-4e3b-92e5-a65525cc6bf7.png"
+            },
+            {
+                "id": "5170",
+                "market": "ŞOK",
+                "isim": "Taşkale Kağıt Helva Sade 45 g",
+                "fiyat": 15,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3c4aa5d0-1036-437b-8a03-b5b7b5a12b9c.png"
+            },
+            {
+                "id": "4000",
+                "market": "ŞOK",
+                "isim": "Peki Çilek Kremalı Gofret 142 g",
+                "fiyat": 34,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e81e94e1-4c1c-4299-a1de-179675338b1c.png"
+            },
+            {
+                "id": "3725",
+                "market": "ŞOK",
+                "isim": "Peki Muzlu Gofret 350 g",
+                "fiyat": 49.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f6f16b9c-db1a-499d-a1f6-c9fbb3af440b.png"
+            },
+            {
+                "id": "2725",
+                "market": "ŞOK",
+                "isim": "Karmen 3 Kattat Gofret 10'lu 200 g",
+                "fiyat": 54.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/934f463f-3c20-45ec-a6d3-68461989f2b6.png"
+            },
+            {
+                "id": "677",
+                "market": "ŞOK",
+                "isim": "Peki Fındıklı Kremalı Gofret 142 g",
+                "fiyat": 34,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b882b105-172f-4fd8-b26d-64f4782352fe.png"
+            },
+            {
+                "id": "676753",
+                "market": "ŞOK",
+                "isim": "Miskos Vanilyalı Gofret 1 kg",
+                "fiyat": 120,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/900ed9e6-9ef5-4be8-9635-f944a4e57c41.png"
+            },
+            {
+                "id": "643891",
+                "market": "ŞOK",
+                "isim": "Eti Hoşbeş Muz Kremalı Gofret 120 g",
+                "fiyat": 47.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1f30431e-50d1-4baf-a2d1-b1b4d242cf3d.jpg"
+            },
+            {
+                "id": "309449",
+                "market": "ŞOK",
+                "isim": "Aktürk Vanilyalı Gofret 300 g",
+                "fiyat": 48.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/75a71567-a01c-4e56-90ee-10a3b1eae3d6.jpg"
+            },
+            {
+                "id": "8176",
+                "market": "ŞOK",
+                "isim": "Eti Hoşbeş Çilekli Gofret 142 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0bde716c-f3e1-413a-96b5-1840f02c9fd1.png"
+            },
+            {
+                "id": "8177",
+                "market": "ŞOK",
+                "isim": "Eti Hoşbeş Fındıklı Gofret 142 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2322c09c-eb5f-4cf1-929c-bb5c05f5e4d0.png"
+            },
+            {
+                "id": "7193",
+                "market": "ŞOK",
+                "isim": "Eti Hosbes Kakaolu 142 Gr",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c1d19443-9ff4-4c90-9870-dcc0ba109d6f.png"
+            },
+            {
+                "id": "5863",
+                "market": "ŞOK",
+                "isim": "Eti Hoşbeş Hindistan Cevizli 142 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/700b6dd5-ad86-4203-a76f-96c7c7d57efb.png"
+            },
+            {
+                "id": "4807",
+                "market": "ŞOK",
+                "isim": "Ülker Gofret Fındıklı 220 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3a473850-0706-471f-8740-7b728298799a.png"
+            },
+            {
+                "id": "4661",
+                "market": "ŞOK",
+                "isim": "Ülker 9 Kat İnce İnce Hindistan Cevizli Gofret 114 g ",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7fca4318-1445-42e8-8a91-010f677c97b7.png"
+            },
+            {
+                "id": "515",
+                "market": "ŞOK",
+                "isim": "Eti Bidolu Yer Fıstıklı Gofret 81 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/476ca2fe-ed58-4d6a-bc47-9e98cd55e336.png"
+            },
+            {
+                "id": "52418",
+                "market": "ŞOK",
+                "isim": "Hanuta Gofret 44 g",
+                "fiyat": 45,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/799b9fbd-9315-4d8f-bd32-831222252643.png"
+            },
+            {
+                "id": "5842",
+                "market": "ŞOK",
+                "isim": "Tempo Potibör Bisküvi 1 kg",
+                "fiyat": 89,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c1134142-1d74-4acb-85a9-fa70f694ddc2.jpg"
+            },
+            {
+                "id": "714840",
+                "market": "ŞOK",
+                "isim": "Ülker Hanımeller Limon Soslu 150 g",
+                "fiyat": 36.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1fe7d24d-e2d6-435f-afd8-7af955973c68.jpg"
+            },
+            {
+                "id": "616621",
+                "market": "ŞOK",
+                "isim": "Eti Tutku Tart 45 g",
+                "fiyat": 14.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7668716a-a3c7-4428-83af-97ba08796eb3.jpg"
+            },
+            {
+                "id": "599585",
+                "market": "ŞOK",
+                "isim": "Eti Pronot Glütensiz Çikolata 35 g",
+                "fiyat": 49,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cd82566c-1897-4d45-8655-c0d13c599339.png"
+            },
+            {
+                "id": "574496",
+                "market": "ŞOK",
+                "isim": "Eti Cicibebe Şekersiz Ekmek 125 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/82928fd5-098b-4276-82ad-98587795bdd5.jpg"
+            },
+            {
+                "id": "386896",
+                "market": "ŞOK",
+                "isim": "Ülker Hanımeller Hindistan Ceviz Çikolatalı 138 G",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7f1b5e26-ff98-4ff0-a880-f993ae2ee00d.png"
+            },
+            {
+                "id": "148564",
+                "market": "ŞOK",
+                "isim": "Ülker İkram Fındıklı 6'lı 504 G",
+                "fiyat": 128,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/294ad546-dcaf-4f51-bb04-c09da1440353.png"
+            },
+            {
+                "id": "37036",
+                "market": "ŞOK",
+                "isim": "Eti Benim'o Çikolatalı 80 g",
+                "fiyat": 34.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/423ba36d-d119-4e1a-b91b-819494e7cef9.jpg"
+            },
+            {
+                "id": "9030",
+                "market": "ŞOK",
+                "isim": "Ülker Pötibör Bisküvi 800 g",
+                "fiyat": 112,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/37eae88c-f3b7-4127-a559-5832ce0db961.png"
+            },
+            {
+                "id": "8274",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Kurabi 198 g",
+                "fiyat": 68,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/910c55b5-885d-4174-9486-1d62a7eaa45f.png"
+            },
+            {
+                "id": "7275",
+                "market": "ŞOK",
+                "isim": "Eti Burçak 3'lü 393 g",
+                "fiyat": 73,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5d5cb4bd-347c-4a1e-a9b0-9e8e095507a9.png"
+            },
+            {
+                "id": "7048",
+                "market": "ŞOK",
+                "isim": "Eti Cicibebe Bisküvi 1 kg",
+                "fiyat": 199,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f48ca6d1-d989-4e3b-9e70-09a6515b8a34.png"
+            },
+            {
+                "id": "6583",
+                "market": "ŞOK",
+                "isim": "Ülker Hanımeller Limonlu Kurabiye 138 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/64af0e88-b602-429e-a1f2-c746b607d9ef.jpg"
+            },
+            {
+                "id": "6509",
+                "market": "ŞOK",
+                "isim": "Eti Kakaolu Bisküvi 125 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bc400da3-678e-4671-8ca0-ac8e834f8d56.png"
+            },
+            {
+                "id": "6508",
+                "market": "ŞOK",
+                "isim": "Eti Cicibebe 172 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8234eb0d-ccb9-4fc6-86e8-204ccdfdf7dc.png"
+            },
+            {
+                "id": "5364",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Yulaflı 3'lü 465 g",
+                "fiyat": 82,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/48c71e17-a79f-4c98-852d-3cfaaa743d60.png"
+            },
+            {
+                "id": "4714",
+                "market": "ŞOK",
+                "isim": "Ülker Hanımeller Asorti Poşet 150 g ",
+                "fiyat": 40,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/711bc73b-61ef-49f8-9142-ddc4d1c494c5.jpg"
+            },
+            {
+                "id": "4707",
+                "market": "ŞOK",
+                "isim": "Ülker Bebe Bisküvisi 1 kg",
+                "fiyat": 139.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/59f0148d-a37e-4d0d-9876-afe8fd14933d.png"
+            },
+            {
+                "id": "1536",
+                "market": "ŞOK",
+                "isim": "Saklıköy Sütlü Kremalı Bisküvi 264 g",
+                "fiyat": 57.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/83b7aa74-cc94-4969-8457-7f367797bbef.png"
+            },
+            {
+                "id": "1512",
+                "market": "ŞOK",
+                "isim": "Gioconda Kedi Dili Bisküvi 200 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2ca60ba0-de0a-4213-aa52-0dd0865f1483.png"
+            },
+            {
+                "id": "975",
+                "market": "ŞOK",
+                "isim": "Eti Bumbo Portakal Aromalı 110 g",
+                "fiyat": 30,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e4c47650-71c2-4228-bc95-43c24b147851.png"
+            },
+            {
+                "id": "5854",
+                "market": "ŞOK",
+                "isim": "Karmen Kakao Kaplamalı Bisküvi 276 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/662ad90a-b21d-4b9a-ba74-5ec2dbc4e9cd.png"
+            },
+            {
+                "id": "5828",
+                "market": "ŞOK",
+                "isim": "Karmen Sütlü Çikolatalı Sandviç Bisküvi 30 g",
+                "fiyat": 7.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/372c1d58-9c56-4572-8a4d-e4b0ede6e7b9.png"
+            },
+            {
+                "id": "4815",
+                "market": "ŞOK",
+                "isim": "Karmen Sandviç Bisküvi 8'li 240 g",
+                "fiyat": 59,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d13f7505-7f04-4ce2-a039-545cfa51a0d8.png"
+            },
+            {
+                "id": "4540",
+                "market": "ŞOK",
+                "isim": "Karmen Zebra Kakao Kaplamalı Bisküvi 276 g",
+                "fiyat": 60,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d2ac629a-35db-4a50-b356-f79688c946d7.png"
+            },
+            {
+                "id": "3723",
+                "market": "ŞOK",
+                "isim": "Karmen Çikolatalı Sütlü Bisküvi 102 g",
+                "fiyat": 59.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/05edf823-92be-4436-8197-086db3434c8f.png"
+            },
+            {
+                "id": "2862",
+                "market": "ŞOK",
+                "isim": "Tempo Portakal Soslu Bisküvi 114 g",
+                "fiyat": 14.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e929a783-b987-4592-9434-9f14f69b8fe0.jpg"
+            },
+            {
+                "id": "696650",
+                "market": "ŞOK",
+                "isim": "Ülker Halley Elma Tarçın 236 g",
+                "fiyat": 79.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2cad47a8-d3a4-4e6b-a4fb-718dd5891aed.png"
+            },
+            {
+                "id": "430013",
+                "market": "ŞOK",
+                "isim": "Mcvities Sütlü Çikolata Kaplamalı Bisküvi 150 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/056f9d78-c87c-4c68-a2bf-87a0b80b8374.png"
+            },
+            {
+                "id": "344180",
+                "market": "ŞOK",
+                "isim": "Ülker Hanımeller Frambuaz Soslu 3'lü 283.5 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/38f00f19-5360-4200-8ada-ebc98cdc3e52.jpg"
+            },
+            {
+                "id": "183004",
+                "market": "ŞOK",
+                "isim": "Ülker Çokomel Dev Sade 22 g",
+                "fiyat": 4.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d4fbafcf-c775-407d-8e39-700672ede473.jpg"
+            },
+            {
+                "id": "8462",
+                "market": "ŞOK",
+                "isim": "Biscolata Pia Frambuaz",
+                "fiyat": 60,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/386e61d7-e59a-4593-95f2-a826ee204593.png"
+            },
+            {
+                "id": "8158",
+                "market": "ŞOK",
+                "isim": "Eti Puf Hindistan Cevizli 16 g",
+                "fiyat": 6,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a12bcdd7-54cf-49a7-8089-9d3d587db9aa.png"
+            },
+            {
+                "id": "7400",
+                "market": "ŞOK",
+                "isim": "Eti Cin Portakallı 325 g",
+                "fiyat": 70,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/79f241a4-2299-4f64-89b3-18428ced73e2.png"
+            },
+            {
+                "id": "6915",
+                "market": "ŞOK",
+                "isim": "Ülker Cocostar Atıştırmalık 154 g",
+                "fiyat": 72.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f83fdb3d-af49-48bd-82c2-b400f4cdbc53.png"
+            },
+            {
+                "id": "6917",
+                "market": "ŞOK",
+                "isim": "Ülker Halley 8'li 240 g",
+                "fiyat": 95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ba43408d-bc30-470b-99a4-003bdfacc416.png"
+            },
+            {
+                "id": "6914",
+                "market": "ŞOK",
+                "isim": "Torku Tam Çikolatam Bisküvi 249 g",
+                "fiyat": 78.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c22500ad-393a-4549-b286-e913ca063ac4.png"
+            },
+            {
+                "id": "5782",
+                "market": "ŞOK",
+                "isim": "Ülker Halley Mini 198 gr",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/69013897-abf7-43f0-868e-b6c2a97df27b.png"
+            },
+            {
+                "id": "5361",
+                "market": "ŞOK",
+                "isim": "Ülker Albeni Atıştırmalık 72 g",
+                "fiyat": 27.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f83943ea-1374-4b4d-a8e2-c9397282fb7b.png"
+            },
+            {
+                "id": "5283",
+                "market": "ŞOK",
+                "isim": "Eti Puf Kakaolu 18 g",
+                "fiyat": 6,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/60982fcc-94be-497c-a8a1-3791ad1b0b03.png"
+            },
+            {
+                "id": "4650",
+                "market": "ŞOK",
+                "isim": "Ülker Halley 30 g",
+                "fiyat": 8.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/112620e0-2e02-4fe5-9ad8-366a2ee69501.png"
+            },
+            {
+                "id": "4209",
+                "market": "ŞOK",
+                "isim": "Ülker Albeni Kurabiyem 170 g",
+                "fiyat": 87.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5d421b2c-5fc6-4967-91a2-bb794f7496d2.png"
+            },
+            {
+                "id": "3403",
+                "market": "ŞOK",
+                "isim": "Eti Puf Hindistan Cevizli 192 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b63a4ca2-6c57-4667-84fa-1482f08888e9.png"
+            },
+            {
+                "id": "2395",
+                "market": "ŞOK",
+                "isim": "Ülker Canpare Fındıklı 3'lü 243 Gr",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5905ad51-db4c-4c94-9f00-33b0a7ba5452.png"
+            },
+            {
+                "id": "2295",
+                "market": "ŞOK",
+                "isim": "Eti Puf Meyve Dolgulu 20 g",
+                "fiyat": 6.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/11566f20-9b1d-430c-b41a-e87ec0b718f0.png"
+            },
+            {
+                "id": "1295",
+                "market": "ŞOK",
+                "isim": "Ülker Çokomel Sade 15'li 180 g",
+                "fiyat": 85,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d1e23899-d849-4ac6-b49c-888cf90ca23e.png"
+            },
+            {
+                "id": "5911",
+                "market": "ŞOK",
+                "isim": "Tempo Sandviç Bisküvi 10'lu 300 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1ed9e107-73a6-494e-86a1-83daa2721776.jpg"
+            },
+            {
+                "id": "860",
+                "market": "ŞOK",
+                "isim": "Tempo Vanilya Kremalı Bisküvi 4'lü 300 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2d4052a6-d8e4-4bfb-949b-750f88c4ddf5.jpg"
+            },
+            {
+                "id": "863",
+                "market": "ŞOK",
+                "isim": "Tempo Çilek Kremalı Bisküvi 4'lü 300 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c4d41ea4-73b4-4d40-83c0-3d9319a5ced0.jpg"
+            },
+            {
+                "id": "857",
+                "market": "ŞOK",
+                "isim": "Tempo Muz Kremalı Bisküvi 4'lü 300 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ee7f8610-57cf-4f55-9663-131e8e91221b.jpg"
+            },
+            {
+                "id": "712749",
+                "market": "ŞOK",
+                "isim": "Merba White Chocolate&Cranberry Cookies 150 G",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9ed95d59-ecb8-45f6-8271-6d5a28d5ef58.jpg"
+            },
+            {
+                "id": "712853",
+                "market": "ŞOK",
+                "isim": "Ülker Biskrem Extra 230 G",
+                "fiyat": 70,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ea4f0bbc-8990-4aa0-8dff-7be0da3aec47.jpg"
+            },
+            {
+                "id": "711822",
+                "market": "ŞOK",
+                "isim": "Merba White Chocolate&Cranberry Cookies 150 g",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8c73c79d-94ae-4bf9-b58c-16d4831a9a06.jpg"
+            },
+            {
+                "id": "612777",
+                "market": "ŞOK",
+                "isim": "Ülker Pötibör Çokokrem Kremalı Bisküvi 229 G",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/25d4f4cb-f4b9-4d94-a722-80c8c90cfeec.png"
+            },
+            {
+                "id": "407851",
+                "market": "ŞOK",
+                "isim": "Merba Chocolate Cookies 150 g",
+                "fiyat": 89,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ef5ae762-eaf1-40ba-97b4-69c501221ab4.jpg"
+            },
+            {
+                "id": "307465",
+                "market": "ŞOK",
+                "isim": "Saklıköy Çikolata Kremalı Tam Tahıllı Bisküvi 400 g",
+                "fiyat": 59.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1b9bc728-caaa-49e1-b02c-e5c215febd56.jpg"
+            },
+            {
+                "id": "298519",
+                "market": "ŞOK",
+                "isim": "Ülker Biskrem Cookie Extra 184 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a09451c0-7341-4864-b964-eb4b7fb1174f.jpg"
+            },
+            {
+                "id": "261097",
+                "market": "ŞOK",
+                "isim": "Eti Petit Beurre Kakao Kremalı 270 g",
+                "fiyat": 70,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/93e4c17c-7c6f-4b0f-918f-688612afc51f.jpg"
+            },
+            {
+                "id": "9145",
+                "market": "ŞOK",
+                "isim": "Ülker Rondo Muzlu Kremalı 8'li 488 g",
+                "fiyat": 79.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cf9e6638-796e-4dd9-b445-1d85d777465e.png"
+            },
+            {
+                "id": "8216",
+                "market": "ŞOK",
+                "isim": "Eti Nero Kakaolu Kremalı 110 g",
+                "fiyat": 30,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/994c1ceb-818f-416f-9875-f1b7ea035b85.png"
+            },
+            {
+                "id": "8157",
+                "market": "ŞOK",
+                "isim": "Eti Tutku Mozaik 100 Gr",
+                "fiyat": 17.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/51ce4367-80a7-4246-91c3-e6612c7bc4c2.png"
+            },
+            {
+                "id": "8141",
+                "market": "ŞOK",
+                "isim": "Ülker Biskrem Extra Kakaolu 184 g",
+                "fiyat": 52,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/313c37df-5dc1-4a09-ac94-5b41f413698b.png"
+            },
+            {
+                "id": "7458",
+                "market": "ŞOK",
+                "isim": "Ülker Biskrem Kakaolu Poşet 200 g",
+                "fiyat": 49,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/29077427-ecb5-4db1-946c-6fd71eb0d2c6.jpg"
+            },
+            {
+                "id": "7229",
+                "market": "ŞOK",
+                "isim": "Ülker Kremalı Bisküvi 4'lü 244 g",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9e6ec380-53dd-4bfb-a95b-90718c43fa87.png"
+            },
+            {
+                "id": "6589",
+                "market": "ŞOK",
+                "isim": "Eti Nero Kakaolu Bisküvi 4x110 g",
+                "fiyat": 109.25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/13b8ea8c-e79f-4218-84d2-06baf69a78e6.png"
+            },
+            {
+                "id": "6090",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Bisküvi Sütlü Çikolalı 114 g",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/24bba24b-96f5-46a0-a646-66a932e374be.png"
+            },
+            {
+                "id": "5879",
+                "market": "ŞOK",
+                "isim": "Biscolata Mood Sütlü Çikolatalı 110 g",
+                "fiyat": 56,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/aea1aaf5-8953-43a6-b605-d5864d5af6fd.png"
+            },
+            {
+                "id": "5615",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Sütlü Kremalı 4'lü 400 g",
+                "fiyat": 90,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1d04f11c-2d5b-4cf2-8198-f602a7c26255.png"
+            },
+            {
+                "id": "5030",
+                "market": "ŞOK",
+                "isim": "Ülker Kremalı Bisküvi 8'li 488 Gr",
+                "fiyat": 110,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2366a6b3-f023-4438-bf60-5f3b935213dd.png"
+            },
+            {
+                "id": "4856",
+                "market": "ŞOK",
+                "isim": "Ülker Probis 10'lu 280 g",
+                "fiyat": 80,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f70eb8c7-ddad-4b49-bee6-160342d27a66.png"
+            },
+            {
+                "id": "4716",
+                "market": "ŞOK",
+                "isim": "Ülker Biskrem Rulo 100 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7f3a731a-b862-4472-866e-77d774964b19.jpg"
+            },
+            {
+                "id": "3578",
+                "market": "ŞOK",
+                "isim": "Ülker Çokoprens 10'lu 300 g",
+                "fiyat": 62.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/68c91851-597a-49f7-a9a9-3a2b7b31a355.png"
+            },
+            {
+                "id": "4299",
+                "market": "ŞOK",
+                "isim": "Ülker İkram Fındıklı 3'lü 252 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b2f25a3d-3583-44aa-9f56-8c99438c8460.png"
+            },
+            {
+                "id": "2935",
+                "market": "ŞOK",
+                "isim": "Ülker Kremalı Çilekli Rondo 4'lü 244 gr",
+                "fiyat": 56.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/59d09e07-a137-4c3c-a314-2daeb260c194.png"
+            },
+            {
+                "id": "2930",
+                "market": "ŞOK",
+                "isim": "Ülker Kremalı Kakaolu Bisküvi 4'lü 244 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f36c3973-5f57-4b96-a876-df98cc9b575e.png"
+            },
+            {
+                "id": "2411",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Yer Fıstık Proteinli 158 Gr",
+                "fiyat": 44.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b2d12a4e-0312-4c3b-9da3-8e8a0ac0bc87.png"
+            },
+            {
+                "id": "472",
+                "market": "ŞOK",
+                "isim": "Ülker İkram Çikolatalı Bisküvi 3*84 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a0604389-8373-45e2-b68b-fe3ab2a0298b.png"
+            },
+            {
+                "id": "439",
+                "market": "ŞOK",
+                "isim": "Ülker Kakaolu Kremalı Bisküvi 8'li 488 Gr",
+                "fiyat": 94.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d9de8a65-ad21-4bb5-9011-6c9cfa3a0087.png"
+            },
+            {
+                "id": "7401",
+                "market": "ŞOK",
+                "isim": "Tempo Finger Bisküvi 450 g",
+                "fiyat": 39,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e71b4b81-b422-4d70-a960-681e651a5fc6.jpg"
+            },
+            {
+                "id": "713799",
+                "market": "ŞOK",
+                "isim": "Torku Miniki Turtacık Çilek Jöleli 3'lü 282 g",
+                "fiyat": 44.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/017409ff-cd3a-487c-948d-034971f415f0.jpg"
+            },
+            {
+                "id": "712873",
+                "market": "ŞOK",
+                "isim": "Torku Miniki Turtacık Portakal Jöleli 3'lü 282 g",
+                "fiyat": 44.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b6a6b805-1f1a-4841-9bca-71b0149a8067.jpg"
+            },
+            {
+                "id": "8159",
+                "market": "ŞOK",
+                "isim": "Ülker Pötibör Çifte Kavrulmuş 175 g",
+                "fiyat": 30,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/03815e44-c4ef-4fc9-ad50-f90d5f222192.png"
+            },
+            {
+                "id": "4825",
+                "market": "ŞOK",
+                "isim": "Ülker Pötibör Bisküvi 175 g",
+                "fiyat": 30,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/dcda35f9-4e28-44c6-970f-2b27ae414a8f.png"
+            },
+            {
+                "id": "4816",
+                "market": "ŞOK",
+                "isim": "Ülker Pötibör 450 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c84b411d-b307-4973-827e-3e713e69444c.png"
+            },
+            {
+                "id": "38003",
+                "market": "ŞOK",
+                "isim": "Torku Tam Ruşeymli Orman Meyveli 252 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/116b3b10-f16c-41ad-b6ee-8455fcff4f2c.png"
+            },
+            {
+                "id": "32670",
+                "market": "ŞOK",
+                "isim": "Ozmo Chocolate 30 G",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2d34d265-4aea-4615-a9b1-cc58d668415e.jpg"
+            },
+            {
+                "id": "7094",
+                "market": "ŞOK",
+                "isim": "Tempo Tuzlu Çubuk Kraker 150 g",
+                "fiyat": 15,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bd1fec79-a811-4fcc-aadd-15b81076df51.jpg"
+            },
+            {
+                "id": "547",
+                "market": "ŞOK",
+                "isim": "Tempo Susamlı Çubuk Kraker 100 g",
+                "fiyat": 15,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9105b95e-e51f-4132-ba3c-10a1a87b861a.jpg"
+            },
+            {
+                "id": "714719",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Çıtır Sweet Chili Aromalı Çerez 160 g",
+                "fiyat": 54,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1152a00e-ba50-41da-ad6d-84b6e99d023d.jpg"
+            },
+            {
+                "id": "696649",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Çıtır Tulum Peynir&Köz Biber 160 g",
+                "fiyat": 54.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/dd80c6cc-6619-4f15-9f2e-8611440fdccf.jpg"
+            },
+            {
+                "id": "698485",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Bigbang Taco Aromalı Çubuk Kraker 50 g",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/34eccc50-90da-4575-b801-9413ead3b070.jpg"
+            },
+            {
+                "id": "691009",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Tulum Peynir&Köz Biber Çerez 190 g",
+                "fiyat": 54.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8a4619b0-9232-4518-8595-c4dea2ee9561.png"
+            },
+            {
+                "id": "589423",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Çıtır Tulum Peynir&Köz Biber 120 g",
+                "fiyat": 49.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1e871dd5-a2d6-4543-a027-c7f5098f70f9.png"
+            },
+            {
+                "id": "590345",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Çıtır Peynir&Soğan 120 g",
+                "fiyat": 49.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2c969a7a-1da1-4e49-af7d-65507e984aed.png"
+            },
+            {
+                "id": "489909",
+                "market": "ŞOK",
+                "isim": "Ülker Altınbaşak Yoğurt Aromalı Tahıl Cipsi 120 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/88d5553d-f9a6-40d4-8eb0-965b46f24c09.jpg"
+            },
+            {
+                "id": "189613",
+                "market": "ŞOK",
+                "isim": "Ülker Çiziviç 6'lı 492 G",
+                "fiyat": 105,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c9721214-014a-4c8e-a77a-bb1154e2ded5.png"
+            },
+            {
+                "id": "7091",
+                "market": "ŞOK",
+                "isim": "Ülker Çiziviç Kraker Peynirli Sandviç 82 g",
+                "fiyat": 20,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f25641e6-0c69-4615-8871-787ea9897267.png"
+            },
+            {
+                "id": "6959",
+                "market": "ŞOK",
+                "isim": "Ülker Taç Kraker 3'lü 228 g",
+                "fiyat": 42.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d8103ce4-9b6b-452b-9364-03e07c27b461.png"
+            },
+            {
+                "id": "6641",
+                "market": "ŞOK",
+                "isim": "Eti Crax Acı Baharatlı 50 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/adc4fd9e-1914-4ee4-a137-77bc63cf30dd.png"
+            },
+            {
+                "id": "6074",
+                "market": "ŞOK",
+                "isim": "Eti Crax Chilli Lime 50 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/826ce0f6-1ab0-4c35-9d2f-58ae57f69275.png"
+            },
+            {
+                "id": "5204",
+                "market": "ŞOK",
+                "isim": "Ülker Krispi Baharatlı Tırtıklı Kraker 48 g",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b26b35c7-0726-4c5d-8aa0-ef94e1297dba.jpg"
+            },
+            {
+                "id": "5156",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi 4'lü 280 Gr",
+                "fiyat": 56,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7ebb54d5-585e-4c33-9066-ccd963995e9b.png"
+            },
+            {
+                "id": "4709",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Kraker Sade 70 g",
+                "fiyat": 7.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bc09a44c-0982-45d7-a41b-e5fc13af22d1.png"
+            },
+            {
+                "id": "4728",
+                "market": "ŞOK",
+                "isim": "Ülker Çubuk Kraker 40 g",
+                "fiyat": 7.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/67d24596-94f2-448d-864a-bdcb0253e49e.png"
+            },
+            {
+                "id": "3427",
+                "market": "ŞOK",
+                "isim": "Eti Mısırlı Balık Kraker 70 g",
+                "fiyat": 22,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/628282d8-8618-4d2f-90b8-1bfd6e2b82f1.png"
+            },
+            {
+                "id": "3864",
+                "market": "ŞOK",
+                "isim": "Ülker Çizi Çıtır Tulum Peynir&köz Biber 80 Gr",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/858e0a6c-8221-479e-b63b-b7cd0a5a971d.png"
+            },
+            {
+                "id": "2545",
+                "market": "ŞOK",
+                "isim": "Ülker Altınbaşak Tahıl Cipsi Yoğurtlu 50 g",
+                "fiyat": 16.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/893b8a00-7bcb-4b7c-bbb8-753f2fc91579.png"
+            },
+            {
+                "id": "583",
+                "market": "ŞOK",
+                "isim": "Ülker Susamlı Çubuk Kraker 45 g",
+                "fiyat": 12,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4ecc4ad5-fdba-4fd1-807e-407daec5e46a.png"
+            },
+            {
+                "id": "455",
+                "market": "ŞOK",
+                "isim": "Eti Crax Baharatlı 80 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fcd6e135-52fd-4844-b11d-b89e6a0b0ed2.png"
+            },
+            {
+                "id": "458",
+                "market": "ŞOK",
+                "isim": "Eti Crax Peynirli 80 Gr",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4eab1bc9-428b-43d0-922e-75f332157e37.png"
+            },
+            {
+                "id": "3728",
+                "market": "ŞOK",
+                "isim": "Eti Burçak Tuzlu Çörekotlu Bisküvi 273 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b82900e6-c759-4592-b4d8-4f906425bc99.png"
+            },
+            {
+                "id": "8739",
+                "market": "ŞOK",
+                "isim": "Peki Mozaik Kek 200 g",
+                "fiyat": 34,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5c835c43-8a30-4582-8c0d-37c53b40b9b1.png"
+            },
+            {
+                "id": "8740",
+                "market": "ŞOK",
+                "isim": "Peki Kakaolu Kek 200 g",
+                "fiyat": 34,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/564d30b6-b90e-4fcb-8e3d-8ae753e16fd2.png"
+            },
+            {
+                "id": "8742",
+                "market": "ŞOK",
+                "isim": "Peki Meyveli Kek 200 g",
+                "fiyat": 34,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f59b6c14-bcbd-4a74-baf8-ee591ea4e57a.png"
+            },
+            {
+                "id": "545692",
+                "market": "ŞOK",
+                "isim": "Dankek Rulo Porsiyon Muzlu 28 g",
+                "fiyat": 9.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/15527c16-9abd-4f50-9a0d-de68687c5f2a.jpg"
+            },
+            {
+                "id": "468",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Rulo Pasta Çikolatalı 235 Gr",
+                "fiyat": 59.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0fa2900d-8bfd-4c52-8d57-200278fb7c69.png"
+            },
+            {
+                "id": "7406",
+                "market": "ŞOK",
+                "isim": "Peki Mozaik Kek 40 g",
+                "fiyat": 6.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e9419d90-a2dc-45b3-912a-4264832667e1.png"
+            },
+            {
+                "id": "7197",
+                "market": "ŞOK",
+                "isim": "Peki Kakaolu Kek 40 g",
+                "fiyat": 6.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/82df6144-9fad-459f-aac7-fbddea2b3fd1.png"
+            },
+            {
+                "id": "685213",
+                "market": "ŞOK",
+                "isim": "Ülker Kekstra Cremo Çilekli Soslu 33 g",
+                "fiyat": 7.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/29313b84-43c6-4f3a-bb9a-5127868b0154.png"
+            },
+            {
+                "id": "668442",
+                "market": "ŞOK",
+                "isim": "Ülker Halley Mini Granüllü 88 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ee20d40f-d96c-48ad-92ca-78d6083131c5.png"
+            },
+            {
+                "id": "668432",
+                "market": "ŞOK",
+                "isim": "Ülker Albeni Mozaik 45 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e64f52c2-e53d-4417-925e-efbc2fcb9233.jpg"
+            },
+            {
+                "id": "639938",
+                "market": "ŞOK",
+                "isim": "Ülker Kekstra Cremo Soslu Çikolata 33 g",
+                "fiyat": 7.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e2375ced-b85e-4430-8ace-7fae8354fd2e.jpg"
+            },
+            {
+                "id": "616624",
+                "market": "ŞOK",
+                "isim": "Mars Secret Centre Biscuits 132 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/64630b65-6b6a-451f-84e5-4d9c7a100fb4.jpg"
+            },
+            {
+                "id": "616623",
+                "market": "ŞOK",
+                "isim": "Twix Secret Centre Biscuits 132 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8cb5a160-c52e-441d-9808-2f6063c35cc3.jpg"
+            },
+            {
+                "id": "8815",
+                "market": "ŞOK",
+                "isim": "Eti Browni Intense 50 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/3d92903f-3956-4c22-82cd-c8f96a2970fe.png"
+            },
+            {
+                "id": "8412",
+                "market": "ŞOK",
+                "isim": "Eti Browni İntense Çikolatalı Mini 160 g",
+                "fiyat": 85,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/44daedab-9729-4e90-92a4-914ba9a42aec.png"
+            },
+            {
+                "id": "8190",
+                "market": "ŞOK",
+                "isim": "Eti Browni Gold Mini 9'lu 180 Gr",
+                "fiyat": 69,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c456e507-8ea0-4ce2-be3f-3719d35d2404.png"
+            },
+            {
+                "id": "8031",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Lokmalık Kakaolu 160 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e825a471-fc8c-460f-8859-d1d93ea84263.png"
+            },
+            {
+                "id": "7690",
+                "market": "ŞOK",
+                "isim": "Eti Mini Pop Kek Çikolatalı 180 g",
+                "fiyat": 59.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ac94716c-b1cb-4e35-8d74-421be0962e0f.png"
+            },
+            {
+                "id": "7027",
+                "market": "ŞOK",
+                "isim": "O'lala Sufle Mini 162 g",
+                "fiyat": 52.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f6e70696-d4e6-457b-8f45-f95beb0251bb.png"
+            },
+            {
+                "id": "5888",
+                "market": "ŞOK",
+                "isim": "Eti Popkek Çikolatalı 60 Gr",
+                "fiyat": 14.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/67f38344-91bf-49a2-a4d2-abad97104fbe.png"
+            },
+            {
+                "id": "5191",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Lokmalık Üzümlü 160 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d65591df-207d-4907-9e68-4648f3b4b1cd.png"
+            },
+            {
+                "id": "4961",
+                "market": "ŞOK",
+                "isim": "Eti Popkek Muzlu 60 g",
+                "fiyat": 14.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/52fc7d9c-0b18-4070-9941-442ad08a0742.png"
+            },
+            {
+                "id": "4737",
+                "market": "ŞOK",
+                "isim": "Ülker Kekstra Jöleli Çilekli Kek 35 Gr",
+                "fiyat": 6.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e662d292-1233-4fb1-b1bb-3bf4fb53db73.png"
+            },
+            {
+                "id": "4781",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Mousse 45 Gr",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d6a6b19f-c28e-44c7-b667-7b7efccb5a6f.png"
+            },
+            {
+                "id": "4669",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek 8 Kek 55 g Çikolata+ Muz",
+                "fiyat": 7.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ec7733a2-8dda-4442-948b-396c27bed241.png"
+            },
+            {
+                "id": "3621",
+                "market": "ŞOK",
+                "isim": "Şölen Ozmo Ogopogo Çilekli Kek 6'lı 180 Gr",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d9c35b4a-b592-4f3d-aeda-876ca1f32c01.png"
+            },
+            {
+                "id": "3602",
+                "market": "ŞOK",
+                "isim": "Eti Topkek Portakallı 40 Gr",
+                "fiyat": 11.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c7693a66-eb1e-4d58-aef2-b7fc29664033.png"
+            },
+            {
+                "id": "4585",
+                "market": "ŞOK",
+                "isim": "Eti Topkek Çilekli 40 g",
+                "fiyat": 11.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0e1438ba-2ffd-47dc-a11d-f05847b7a228.png"
+            },
+            {
+                "id": "4582",
+                "market": "ŞOK",
+                "isim": "Eti Topkek Fındıklı Kakaolu 35 Gr",
+                "fiyat": 12.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/23db2ba7-62c1-4bb2-9481-cd5ddfc90450.png"
+            },
+            {
+                "id": "4284",
+                "market": "ŞOK",
+                "isim": "Ülker 8 Kek Çikolatalı 55 g",
+                "fiyat": 7.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/627fd3a1-ce65-4ca3-af49-f3ce51b726a0.png"
+            },
+            {
+                "id": "3862",
+                "market": "ŞOK",
+                "isim": "Eti Popkek Mini Bitter Çikolatalı 162 Gr",
+                "fiyat": 54.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f5eae63f-4d44-4779-848e-5bca2999aa31.png"
+            },
+            {
+                "id": "2120",
+                "market": "ŞOK",
+                "isim": "Eti Popkek Limonlu 60 g",
+                "fiyat": 14.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f9d3e694-e126-4311-998a-ecc6735c909a.png"
+            },
+            {
+                "id": "2260",
+                "market": "ŞOK",
+                "isim": "Dankek Magma Çikolatalı 65 g",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8013d668-0ea8-4a0e-ac90-7fc7ed8c1721.png"
+            },
+            {
+                "id": "2249",
+                "market": "ŞOK",
+                "isim": "Şölen Luppo Red Velvet Sandviç Kek 182 g",
+                "fiyat": 69.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/67408226-2227-4ba4-9a9e-c8e6e6f562e9.png"
+            },
+            {
+                "id": "2248",
+                "market": "ŞOK",
+                "isim": "Eti Browni Gold Vişneli 45 g",
+                "fiyat": 15,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/215d18b8-8d40-4c1c-b77d-bc1c92fb03ac.png"
+            },
+            {
+                "id": "1930",
+                "market": "ŞOK",
+                "isim": "Ülker Kekstra Mini Çilekli 150 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/bd5dc0c5-360c-4941-99ac-8f2bf31a1ffa.png"
+            },
+            {
+                "id": "1673",
+                "market": "ŞOK",
+                "isim": "Ülker O'lala Tiramisu 45 g",
+                "fiyat": 19.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/606049e9-6e95-4c3f-8eb6-bbe4269f0e21.png"
+            },
+            {
+                "id": "1462",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Tart Kek Mini 150 Gr",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6871bd96-10f6-425d-ad0f-8add71c67c5e.png"
+            },
+            {
+                "id": "1548",
+                "market": "ŞOK",
+                "isim": "Ülker Olala Sufle Frambuazlı 70 Gr",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/975159bb-3ada-4b20-b155-789ee75d6cdd.png"
+            },
+            {
+                "id": "1504",
+                "market": "ŞOK",
+                "isim": "Ülker Dankek Tart Kek Çilekli 180 g",
+                "fiyat": 80,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6660514a-8964-4bad-876f-440fed0f8adb.png"
+            },
+            {
+                "id": "1127",
+                "market": "ŞOK",
+                "isim": "Eti Browni Gold Çikolatalı 45 g",
+                "fiyat": 7.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9b0f5e08-a096-49ce-a0cc-89396c473ee1.png"
+            },
+            {
+                "id": "664",
+                "market": "ŞOK",
+                "isim": "Luppo Sandviç Kek Sade 184 Gr",
+                "fiyat": 39,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d790b07d-2811-476a-8d0b-34b890b15517.png"
+            },
+            {
+                "id": "265849",
+                "market": "ŞOK",
+                "isim": "Peki Ballı Sütlü Dolgulu Kakaolu Kek 28 g",
+                "fiyat": 14,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/209d906b-5d68-42d7-ba5e-f4515c1d6080.jpg"
+            },
+            {
+                "id": "267683",
+                "market": "ŞOK",
+                "isim": "Peki Bitter Çikolata Kaplamalı Kek 33 g",
+                "fiyat": 16.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/19a2b6af-0c8b-4fcc-9459-db627b88a587.jpg"
+            },
+            {
+                "id": "589419",
+                "market": "ŞOK",
+                "isim": "Kinder Süt Dilimi Çilek 28 G",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/970371cb-6b12-436b-8179-d6ff2dd3c6eb.png"
+            },
+            {
+                "id": "6252",
+                "market": "ŞOK",
+                "isim": "Ozmo Cool 30 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/424ce93e-12a9-432a-90bd-4c30f985d6e3.jpg"
+            },
+            {
+                "id": "5835",
+                "market": "ŞOK",
+                "isim": "Kinder Süt Dilimi 28 g",
+                "fiyat": 18.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a34e7639-358f-4ce5-8203-95d2ee9aa4e2.jpg"
+            },
+            {
+                "id": "5375",
+                "market": "ŞOK",
+                "isim": "Kinder Pingui 30 g ",
+                "fiyat": 26,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/886317f4-4d76-49af-b386-d2f920dc8cc6.jpg"
+            },
+            {
+                "id": "3648",
+                "market": "ŞOK",
+                "isim": "Eti Süt Burger Çilekli 35 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/92bf8b5c-ed87-4755-9ca7-aabfb2c33b62.png"
+            },
+            {
+                "id": "2319",
+                "market": "ŞOK",
+                "isim": "Eti Tartini Frambuazlı 114 Gr",
+                "fiyat": 39,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/536d7eb8-4a1e-49b8-a8fa-c0b89b038906.png"
+            },
+            {
+                "id": "37765",
+                "market": "ŞOK",
+                "isim": "Eti Topkek Kakao Ve Hindistan Cevizli 40 g",
+                "fiyat": 11.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/184021dc-b99c-4791-97cb-ac93f315ec64.png"
+            },
+            {
+                "id": "5260",
+                "market": "ŞOK",
+                "isim": "Eti Süt Burger 35 Gr",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c007a23f-3525-4a6f-adbb-9668676a4198.png"
+            },
+            {
+                "id": "640",
+                "market": "ŞOK",
+                "isim": "Eti Popkek Mini Hindistan Cevizli 180 g",
+                "fiyat": 54.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fcc38aa8-2d0d-47eb-8e94-3c2743ebf6fb.png"
+            },
+            {
+                "id": "449049",
+                "market": "ŞOK",
+                "isim": "Karmen Bol Sütlü Çikolata 100 g",
+                "fiyat": 59,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a78a7512-f0e3-446f-b508-3448e35540d5.png"
+            },
+            {
+                "id": "680580",
+                "market": "ŞOK",
+                "isim": "Ülker Napoliten Bayram Keyfi 150 G",
+                "fiyat": 175,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/afd0bf9e-0705-40f4-be4a-92a4502cb6e0.png"
+            },
+            {
+                "id": "127304",
+                "market": "ŞOK",
+                "isim": "Ülker Coco Star Mini 300 Gr",
+                "fiyat": 230,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/467b5d93-fa22-49fa-b83e-83ac1bfd9658.png"
+            },
+            {
+                "id": "127427",
+                "market": "ŞOK",
+                "isim": "Ülker Laviva Mini 202.4 Gr",
+                "fiyat": 175,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7dfe244d-eaaa-4acb-8359-ea053488144a.png"
+            },
+            {
+                "id": "127302",
+                "market": "ŞOK",
+                "isim": "Ülker Albeni Mini 300 Gr",
+                "fiyat": 230,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/448d210d-3b5c-4d67-9089-9dcbbe9e1a80.png"
+            },
+            {
+                "id": "8700",
+                "market": "ŞOK",
+                "isim": "Şölen Chocodans Karamel Çikolata 125 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9d21d006-3140-4503-a163-5389e0622b21.png"
+            },
+            {
+                "id": "8632",
+                "market": "ŞOK",
+                "isim": "Eti Mozaik Marble 300 Gr",
+                "fiyat": 229,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e1b841d9-5dcd-4a46-8059-a85dd3ff5bb9.png"
+            },
+            {
+                "id": "8377",
+                "market": "ŞOK",
+                "isim": "Ülker Çikolatin Sütlü Çikolata 350 g",
+                "fiyat": 295,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e3930fbc-b686-4076-9235-0b8ba333dd77.png"
+            },
+            {
+                "id": "7122",
+                "market": "ŞOK",
+                "isim": "Ülker Ece Bütün Fındıklı Sütlü 350 g",
+                "fiyat": 295,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6ccf0050-3d2d-4338-b3f1-6306318db776.png"
+            },
+            {
+                "id": "5610",
+                "market": "ŞOK",
+                "isim": "Ülker Senfoni Fındık Kremalı Çikolata 450 g",
+                "fiyat": 240,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a0fe13b7-95c6-46ab-bd2d-31e8947ae15b.png"
+            },
+            {
+                "id": "5416",
+                "market": "ŞOK",
+                "isim": "Elvan Fondante Sütlü Fondan 500 Gr",
+                "fiyat": 199,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1751f9b2-155e-48b8-98b4-a5adcf524195.png"
+            },
+            {
+                "id": "675844",
+                "market": "ŞOK",
+                "isim": "Tayaş Coffe Intense 900 g",
+                "fiyat": 169,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f016593d-46d5-478b-88e5-af16c39b9d3d.png"
+            },
+            {
+                "id": "675843",
+                "market": "ŞOK",
+                "isim": "Tayaş Tuvana 350 g",
+                "fiyat": 139,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0d5e08f7-a48d-43e6-9241-8d2679e70007.png"
+            },
+            {
+                "id": "420775",
+                "market": "ŞOK",
+                "isim": "Tayaş Macaron 400 g",
+                "fiyat": 120,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/91fbbd67-9e1e-4d1d-9225-de77f504e893.jpg"
+            },
+            {
+                "id": "708120",
+                "market": "ŞOK",
+                "isim": "Ülker Süper Mix 300.5 G",
+                "fiyat": 129,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/342ff70d-1290-4108-946f-727c11726bb8.jpg"
+            },
+            {
+                "id": "707197",
+                "market": "ŞOK",
+                "isim": "Bebeto Bricks Licorice 80 G",
+                "fiyat": 28.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a8e1698f-1de3-4155-ade8-8487aa92c403.jpg"
+            },
+            {
+                "id": "699409",
+                "market": "ŞOK",
+                "isim": "Haribo Altın Ayıcık Ekşi 175 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/55ae7011-5200-4dfe-8408-79db09b5e14b.jpg"
+            },
+            {
+                "id": "699408",
+                "market": "ŞOK",
+                "isim": "Haribo Altın Ayıcık Efsane Tatlar 200 g",
+                "fiyat": 39.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/43dd1a3c-1044-40e9-9eb1-883df7e365b1.jpg"
+            },
+            {
+                "id": "698484",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Kola Yumuşak Şeker 200 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f338cb76-4a0b-4efa-b1df-61df0fa5c6fc.jpg"
+            },
+            {
+                "id": "698483",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Ayıcık Yumuşak Şeker 200 g",
+                "fiyat": 49.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0897fc0d-be3f-4b57-b3e8-3f5858bd4158.jpg"
+            },
+            {
+                "id": "698482",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Sihirli Şapka Yumuşak Şeker 400 g",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/65ce58de-85fd-4da0-a434-3d3c407a1316.jpg"
+            },
+            {
+                "id": "645749",
+                "market": "ŞOK",
+                "isim": "Haribo Chamallows Cocoballs 175 g",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/48738804-e445-46b9-8b51-9009f2d73a62.png"
+            },
+            {
+                "id": "643893",
+                "market": "ŞOK",
+                "isim": "Pez Yedek Şeker 68 G",
+                "fiyat": 74.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b0a18998-d702-472e-b691-04086619b004.png"
+            },
+            {
+                "id": "578320",
+                "market": "ŞOK",
+                "isim": "Pez Şeker Adam 25.5 g",
+                "fiyat": 149.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/67d6b1b8-716b-492d-857d-55054f074254.jpg"
+            },
+            {
+                "id": "487941",
+                "market": "ŞOK",
+                "isim": "Doremi Ördek Lolipop Şeker 15 g",
+                "fiyat": 10,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/70c647ba-2434-4cce-b4e5-1b7ff562320e.jpg"
+            },
+            {
+                "id": "363809",
+                "market": "ŞOK",
+                "isim": "Haribo Miami Ekşi 120 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0f31cc55-f4b3-4e77-990b-c4b7efeb1426.jpg"
+            },
+            {
+                "id": "338397",
+                "market": "ŞOK",
+                "isim": "Bebeto Karpuz Freeze Crunchy 35 g",
+                "fiyat": 29.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/76265311-10c5-443c-ba46-e12908d8e9d9.jpg"
+            },
+            {
+                "id": "338396",
+                "market": "ŞOK",
+                "isim": "Bebeto Şeftali Freeze Crunchy 35 g",
+                "fiyat": 29.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/fda77497-c759-4c45-92fd-5605ff8ab57a.jpg"
+            },
+            {
+                "id": "283949",
+                "market": "ŞOK",
+                "isim": "Funzi Figürlü Marshmallow 45 G",
+                "fiyat": 29.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/273bd782-ea18-492d-8961-bd175f03fe16.jpg"
+            },
+            {
+                "id": "41766",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Solucan 400 Gr",
+                "fiyat": 75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8821f24b-33b7-4f51-a3b4-41789ed70f56.png"
+            },
+            {
+                "id": "8432",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Çokojelo Portakal 20 g",
+                "fiyat": 14.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/0791c527-61f9-4c5d-8144-789f1ccb6600.png"
+            },
+            {
+                "id": "8422",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Çokojelo Böğürtlen 20 g",
+                "fiyat": 14.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/dcdab00e-90aa-40c0-9454-e6daed95794f.png"
+            },
+            {
+                "id": "8151",
+                "market": "ŞOK",
+                "isim": "Yupo Jelly Meyve Bahçesı 80 g",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/95d90523-2f20-4f86-ac7e-2bbc3bd8cdcf.png"
+            },
+            {
+                "id": "8038",
+                "market": "ŞOK",
+                "isim": "Haribo Chammallows 130 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f1d90245-f485-41a1-8647-e5cb4680b71b.png"
+            },
+            {
+                "id": "8030",
+                "market": "ŞOK",
+                "isim": "Yupo Jelly Ayıcık 80 g",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2515efe1-0be9-4a07-81c0-77f200ca5bde.png"
+            },
+            {
+                "id": "8029",
+                "market": "ŞOK",
+                "isim": "Haribo Starmix 130 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/9b978f41-9848-46f1-a56f-f313ebaf7499.png"
+            },
+            {
+                "id": "5206",
+                "market": "ŞOK",
+                "isim": "Yupo Jelly Kola 80 g",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2e13f9d7-b98c-471f-8448-3ed0a798014c.png"
+            },
+            {
+                "id": "4059",
+                "market": "ŞOK",
+                "isim": "Haribo Jelly Beans 50 g",
+                "fiyat": 19.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/dd7cb836-2693-4374-8fcb-0ffb6dca38d4.png"
+            },
+            {
+                "id": "3187",
+                "market": "ŞOK",
+                "isim": "Bebeto Fastfood 30 g ",
+                "fiyat": 12.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/888ae485-d932-42dd-9c05-916c78144b99.png"
+            },
+            {
+                "id": "3080",
+                "market": "ŞOK",
+                "isim": "Haribo Mega Roulette 45 g",
+                "fiyat": 22.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1457ceb2-cfca-49b0-8919-9fc7a71af330.png"
+            },
+            {
+                "id": "2398",
+                "market": "ŞOK",
+                "isim": "Bebeto Yumuşak Şeker Super Belts 75 Gr",
+                "fiyat": 29.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5300aa8a-752f-4a1c-a96c-582f8400b2b2.png"
+            },
+            {
+                "id": "2396",
+                "market": "ŞOK",
+                "isim": "Bebeto Yumuşak Şeker Wacky Sticks 75 Gr",
+                "fiyat": 29.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/aed56033-1eff-4815-bc60-7b5d15638313.png"
+            },
+            {
+                "id": "1669",
+                "market": "ŞOK",
+                "isim": "Haribo Ekşi Mix 115 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d4b468e3-9610-4b20-9d82-dafc3d7c43e0.png"
+            },
+            {
+                "id": "707",
+                "market": "ŞOK",
+                "isim": "Haribo Gold Bear 130 g",
+                "fiyat": 55,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d43040f8-b97b-4807-9ab4-cfd69f63c930.png"
+            },
+            {
+                "id": "620",
+                "market": "ŞOK",
+                "isim": "Haribo Yılbaşı Çeşitleri 130 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d1f643de-1b12-4a51-89c1-fe8e9a8f106f.png"
+            },
+            {
+                "id": "275236",
+                "market": "ŞOK",
+                "isim": "Cosby Box Barbie&Hot Wheels 5 G",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/48d5f889-207a-4fa0-b980-80b00ae9cfa4.jpg"
+            },
+            {
+                "id": "271382",
+                "market": "ŞOK",
+                "isim": "Chupa Chups Sakız Dolgulu Lolipop 12 G",
+                "fiyat": 12.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/b6e5e70a-1527-4847-a8e0-f8115dc2fbf9.png"
+            },
+            {
+                "id": "8719",
+                "market": "ŞOK",
+                "isim": "Ülker Bonbon Nane Aromalı Rulo Şeker 36 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/30af3902-9441-4a65-b2d9-9a377a510c79.png"
+            },
+            {
+                "id": "8083",
+                "market": "ŞOK",
+                "isim": "Olips Mentol&okaliptus 28 g",
+                "fiyat": 19.75,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/8aa5a8e4-0227-40d4-8e04-93be2cdd6419.png"
+            },
+            {
+                "id": "8082",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Lolipop 31 g",
+                "fiyat": 17,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/31f676a0-7b9b-4488-a752-9628ee887de6.png"
+            },
+            {
+                "id": "7202",
+                "market": "ŞOK",
+                "isim": "Ülker Kremini Şeker Çilekli 44 g",
+                "fiyat": 24.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/ac2dd0c2-bd2f-4ddc-a858-5c7c3c4feb5b.png"
+            },
+            {
+                "id": "5862",
+                "market": "ŞOK",
+                "isim": "Chupa Chups Düdüklü Şeker Çilek 15 g",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/5d0d1ce3-1268-4532-b872-5a2b33afa750.png"
+            },
+            {
+                "id": "4551",
+                "market": "ŞOK",
+                "isim": "Nestle Polo Original 34 g",
+                "fiyat": 24.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4feb1bff-8573-446f-90a8-a99d7d04ae2f.png"
+            },
+            {
+                "id": "3298",
+                "market": "ŞOK",
+                "isim": "Chupa Chups Skull Çilek&limonlu Lolipop 15 g",
+                "fiyat": 17.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1553da2a-1aaf-4a8b-b212-7510251b437f.png"
+            },
+            {
+                "id": "1513",
+                "market": "ŞOK",
+                "isim": "Ülker Pastil Ihlamur Limon Propolis 22.4 g",
+                "fiyat": 50,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/1e1cd60b-98e8-4977-9942-c18ca3e687b1.png"
+            },
+            {
+                "id": "513",
+                "market": "ŞOK",
+                "isim": "Olips Mini Mints Nane Aromalı 12.5 Gr",
+                "fiyat": 39,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d9e1c50e-d12e-4fab-93ad-3874a5210113.png"
+            },
+            {
+                "id": "6920",
+                "market": "ŞOK",
+                "isim": "Taşkale Pişmaniye 250 g",
+                "fiyat": 65,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e1e8f69b-5a44-4d6c-a353-fdff5b4b0a69.png"
+            },
+            {
+                "id": "6626",
+                "market": "ŞOK",
+                "isim": "Taşkale Meyve Aromalı Kuş Lokumu 180 g",
+                "fiyat": 29.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d16479d3-3d63-4c26-adf8-4f282194e36a.png"
+            },
+            {
+                "id": "548",
+                "market": "ŞOK",
+                "isim": "Taşkale Lokum 350 g",
+                "fiyat": 110,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/214f9c73-efbd-4f54-abab-acb070716415.png"
+            },
+            {
+                "id": "590348",
+                "market": "ŞOK",
+                "isim": "Lokum Aşkı Çikolata Kaplı Vanilya Aromalı 200 G",
+                "fiyat": 99,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d92f65a4-ae82-4626-8bf8-54c1470026c4.jpg"
+            },
+            {
+                "id": "464956",
+                "market": "ŞOK",
+                "isim": "Oneo Slims Nane Aromalı 60 Dk 14 g",
+                "fiyat": 23.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/abe7519c-5d68-4c1f-b21a-354e9e0379e8.png"
+            },
+            {
+                "id": "333685",
+                "market": "ŞOK",
+                "isim": "Oneo Feel Free Çilek Aromalı Şekersiz Sakız 27 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f38133fd-5e00-4447-b8ff-4cc1aef9ff6a.png"
+            },
+            {
+                "id": "332640",
+                "market": "ŞOK",
+                "isim": "Oneo Feel Free Karpuz Aromalı Şekersiz Sakız 27 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/f31470f2-1728-47aa-ad15-176117e1c208.png"
+            },
+            {
+                "id": "332772",
+                "market": "ŞOK",
+                "isim": "Oneo Feel Free Slims Nane Aromalı 27 g",
+                "fiyat": 35,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/82e0be73-f571-4986-a6b0-7e416df2e4b1.png"
+            },
+            {
+                "id": "307466",
+                "market": "ŞOK",
+                "isim": "Bigbabol Ekşi Elma Aromalı Balonlu Sakız 27 g",
+                "fiyat": 14.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/35aabafb-3183-41fe-9f51-6d0cdaee0ea2.png"
+            },
+            {
+                "id": "8811",
+                "market": "ŞOK",
+                "isim": "Oneo Nane Aromalı Draje Sakız 21 g",
+                "fiyat": 27.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/86895c30-d10f-4974-8e9c-47dd0e3e5c54.png"
+            },
+            {
+                "id": "6070",
+                "market": "ŞOK",
+                "isim": "Vivident 45 Dakika Nane Aromalı 33 g",
+                "fiyat": 47,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/aac3957a-61c8-4847-af67-aa099dcbb341.png"
+            },
+            {
+                "id": "2723",
+                "market": "ŞOK",
+                "isim": "Mentos Pure Fresh Draje Sakız 30 g",
+                "fiyat": 45,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c9c5ae13-7348-4764-a9ec-dffa9b6a7b49.png"
+            },
+            {
+                "id": "2563",
+                "market": "ŞOK",
+                "isim": "First 60 Dakika Şeftali Karpuz 27 g",
+                "fiyat": 46,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/6780ea1b-eb2c-4166-aab5-16bb3818adf7.png"
+            },
+            {
+                "id": "2648",
+                "market": "ŞOK",
+                "isim": "First 60dk Nane Aromalı 27 g",
+                "fiyat": 46,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/62956ecd-ba57-457f-96ff-a2150ed05572.png"
+            },
+            {
+                "id": "2397",
+                "market": "ŞOK",
+                "isim": "Ülker Yupo Metre Çilek 50 gr",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/dba2bc59-4270-4d46-8f7f-e3027de65003.png"
+            },
+            {
+                "id": "2188",
+                "market": "ŞOK",
+                "isim": "Ülker Pembo Tuttı Fruttı Aromalı Sakız 22.5 g",
+                "fiyat": 17.45,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/786df876-f930-4be7-b655-b874286cd949.png"
+            },
+            {
+                "id": "1823",
+                "market": "ŞOK",
+                "isim": "Ülker Oneo Bubble Mini Draje 60 Gr",
+                "fiyat": 54.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/eb794763-75fb-43fa-b3af-acbb8f00586a.png"
+            },
+            {
+                "id": "649449",
+                "market": "ŞOK",
+                "isim": "Mastiqe Damla Sakızlı Şekersiz Sakız 20 G",
+                "fiyat": 48,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/65010c7c-afde-4a61-87ab-17be7a332cd3.png"
+            },
+            {
+                "id": "357213",
+                "market": "ŞOK",
+                "isim": "Falım Işıl Karbonatlı 3'lü 24 g",
+                "fiyat": 33.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/74b8f76e-f1c7-4058-a2bd-d9e560f4c55b.png"
+            },
+            {
+                "id": "230181",
+                "market": "ŞOK",
+                "isim": "Bebeto Metre Sakız 36 g",
+                "fiyat": 21.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/79faed25-350d-4d8b-8382-51b9a6b5adf9.png"
+            },
+            {
+                "id": "8460",
+                "market": "ŞOK",
+                "isim": "Yıldız Şekersiz Stick Çilek 21 g",
+                "fiyat": 32,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/359c5612-415f-40fb-8aea-e8ecf28b511b.png"
+            },
+            {
+                "id": "8461",
+                "market": "ŞOK",
+                "isim": "Yıldız Şekersiz Stick Damla 21 g",
+                "fiyat": 32,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/a4dfa5ae-1a84-47d8-8a5e-a464649bf455.png"
+            },
+            {
+                "id": "5319",
+                "market": "ŞOK",
+                "isim": "Falım Nane 3'lü 21 g",
+                "fiyat": 33.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d430b9ab-cbfe-41c0-9e6e-fddafab58778.png"
+            },
+            {
+                "id": "3846",
+                "market": "ŞOK",
+                "isim": "First Yeşil Nane Şekersiz 27 g",
+                "fiyat": 42,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/e1cc9504-8190-4d7d-a26b-f8d663602c8e.png"
+            },
+            {
+                "id": "513550",
+                "market": "ŞOK",
+                "isim": "Folife Antepfıstıklı Kakaolu Meyve Topları 96 g",
+                "fiyat": 89.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/df6f7869-2fef-4894-9905-36f6251057bb.jpg"
+            },
+            {
+                "id": "513667",
+                "market": "ŞOK",
+                "isim": "Folife Hindistan Cevizli Meyve Topları 96 g",
+                "fiyat": 69.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4ff5ba6f-0a39-4b54-ad2d-1feb09307a6c.jpg"
+            },
+            {
+                "id": "513549",
+                "market": "ŞOK",
+                "isim": "Folife Antep Fıstıklı Kakaolu Meyve Tatlısı 40 g",
+                "fiyat": 39.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/cd5a5cb7-df2f-4cd8-9984-8ac79d64c6aa.jpg"
+            },
+            {
+                "id": "513789",
+                "market": "ŞOK",
+                "isim": "Folife Fındıklı Ve Kakaolu Meyve Tatlısı 40 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/112cb3ec-b91d-4a1a-b952-31b0bfac4f7c.jpg"
+            },
+            {
+                "id": "497562",
+                "market": "ŞOK",
+                "isim": "Folife Karabuğday Patlağı 100 G",
+                "fiyat": 44.9,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4ce16c85-f7fd-43ab-af76-0716aa5b0d90.jpg"
+            },
+            {
+                "id": "3975",
+                "market": "ŞOK",
+                "isim": "Amigo Pops Pirinç Mısır Patlağı 64 g",
+                "fiyat": 14.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/4845f65a-6ea0-4d98-8725-4d66bf7aeb5d.png"
+            },
+            {
+                "id": "650493",
+                "market": "ŞOK",
+                "isim": "Eti Gong Çilek Yoğurtlu Pirinç Patlağı 30 g",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/c8003c97-c194-438f-a361-c2614e232f8b.png"
+            },
+            {
+                "id": "651414",
+                "market": "ŞOK",
+                "isim": "Eti Gong Sütlü Kakaolu Pirinç Patlağı 30 G",
+                "fiyat": 19.95,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/2ba8cf54-50c8-4348-8039-76d15a1fdf65.png"
+            },
+            {
+                "id": "558634",
+                "market": "ŞOK",
+                "isim": "Eti Gong Pops Tikka Masala Aromalı 80 g",
+                "fiyat": 25,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/37882106-80f8-4824-8e43-26d3613178ac.jpg"
+            },
+            {
+                "id": "422601",
+                "market": "ŞOK",
+                "isim": "Eti Lifalif Kuru Yemişli Yulaf Bar 35 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/d5461e36-debf-42dd-92c2-8002d2b7e7d2.jpg"
+            },
+            {
+                "id": "421677",
+                "market": "ŞOK",
+                "isim": "Eti Lifalif Bitter Çikolatalı 35 g",
+                "fiyat": 37.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/048a7adf-f294-4e18-9f6c-603411de6c88.jpg"
+            },
+            {
+                "id": "8378",
+                "market": "ŞOK",
+                "isim": "Etimek Klasik 143 g",
+                "fiyat": 56,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/99b19887-e158-4d3f-a3cf-6be7822ab331.png"
+            },
+            {
+                "id": "5881",
+                "market": "ŞOK",
+                "isim": "Eti Gong Mısır Pirinç Patlağı 64 g",
+                "fiyat": 26,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/74f69e7d-a930-4a57-8392-b9a4c298f2f4.png"
+            },
+            {
+                "id": "5437",
+                "market": "ŞOK",
+                "isim": "Ülker Altınbaşak Çörek Otlu Kinoalı 5*40 g",
+                "fiyat": 73.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/30b7b870-8387-48c0-85bd-8417b67b4863.png"
+            },
+            {
+                "id": "5017",
+                "market": "ŞOK",
+                "isim": "Eti Gong Ballı Hardallı 68 Gr",
+                "fiyat": 32.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/7ba711fa-0799-4fbf-a6c3-e0173970aba2.png"
+            },
+            {
+                "id": "176838",
+                "market": "ŞOK",
+                "isim": "Tornado Yer Fıstıklı Protein Bar 50 g",
+                "fiyat": 34.5,
+                "resim": "https://images.ceptesok.com/product-assets/sub-folder/213261af-cc78-4aa6-aa26-58fadbd9ee39.png"
             }
         ]
     }
