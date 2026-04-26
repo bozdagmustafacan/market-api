@@ -1,5 +1,6 @@
+
 {
-    "guncellenme_tarihi": "2026-04-26 16:45:31",
+    "guncellenme_tarihi": "2026-04-26 22:15:00",
     "marketler": {
         "sok": [
             {
@@ -3515,6 +3516,249 @@
                 "isim": "Tornado Yer Fıstıklı Protein Bar 50 g",
                 "fiyat": 34.5,
                 "resim": "https://images.ceptesok.com/product-assets/sub-folder/213261af-cc78-4aa6-aa26-58fadbd9ee39.png"
+            }
+
+        ],
+        "a101": [
+            {
+                "market": "A101",
+                "isim": "Dooy Sarı Meyveli Meyve Suyu %100 6x200 ml",
+                "fiyat": 69.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/k73iPhjZIB_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Portakal Kg",
+                "fiyat": 39.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/NasX2-Zzqm_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Perfect Delight Infuze Çilek 100 G ",
+                "fiyat": 89.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/Qamwpf0RDu_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Malatya Pazarı Karışık Kuru Meyve 40 G ",
+                "fiyat": 14.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/zup8Luvbem_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Perfect Delight Kuru Meyve Vişne 100 G",
+                "fiyat": 89.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/z115BFqxTw_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Üzüm 500 G",
+                "fiyat": 99.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/hvk1NijXMK_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Dut 100 G",
+                "fiyat": 45.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/zYYUwbGtkq_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Otamon Kuru Meyve Karışımı 200 G ",
+                "fiyat": 45.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/uHmEdkug0B_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Kırlıoğlu Kuru Meyve İncir 200 G",
+                "fiyat": 59.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/GsTPGX0MO0_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Hazarbey Keçiboynuzu Kuru Meyve 250 G ",
+                "fiyat": 49.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/g-N3-xdWIE_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Tunus Hurma 300 G",
+                "fiyat": 49.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/VtT610T-Re_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Rabbi Hurma 250 G",
+                "fiyat": 49.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/Nih-nSpblT_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Hudri Hurma 250 G",
+                "fiyat": 79.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/LC2iNwavpB_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Kuru Meyve Hurma Zahidi 250 G ",
+                "fiyat": 49.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/IwF4cwSGcn_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dimes Karışık Meyve Nektarı 200 ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/PA0Q0q5Egh_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Malatya Pazarı Karışık Kuru Meyve & Kuru Yemiş 40 G",
+                "fiyat": 21.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/dE-ypjweBF_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dooy Karışık Meyve Nektarı 200 ml",
+                "fiyat": 11.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/OpI-B3nq7C_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Cappy Karışık Meyve Nektarı 200 ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/TynixcI9qs_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Karışık 250 G",
+                "fiyat": 62.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/jyC4ixT4ow_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Üstad %100 Organik Meyve Suyu Kırmızı Meyve 1 L ",
+                "fiyat": 119.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/TpRa23qf0h_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dimes Vişne Meyve Nektarı 200 ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/pGUYBqUPwY_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dooy Kayısı Meyve Nektarı 200 ml",
+                "fiyat": 11.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/ib2482Nx3X_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Üstad %100 Organik Meyve Suyu Sarı Meyve 1 L ",
+                "fiyat": 119.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/Zzhkh7nLpL_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dooy Vişne Meyve Nektarı 200 ml",
+                "fiyat": 15.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/MfcyDJFrIO_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Malatya Pazarı Karışık Kuruyemiş 40 G ",
+                "fiyat": 24.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/B1NjA2m7S3_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Açık Ceviz Kg",
+                "fiyat": 249.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/MG6k-bgvR8_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dooy Karışık Meyve Nektarı 1 L",
+                "fiyat": 45.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/cd3VoeB5LT_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dimes Şeftali Meyve Nektarı 200 Ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/HJV6ccSRT8_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Cappy Atom Meyve Nektarı 200 ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/pR8GnVUTPk_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Tadım Festival Karışık Kuruyemiş 180 G",
+                "fiyat": 199.95,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/02PhykDI6d_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Cappy Karışık Meyve Nektarı 1 L",
+                "fiyat": 45.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/AN0BFrbeZf_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Cappy Şeftali Meyve Nektarı 200 ml",
+                "fiyat": 17.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/jE20D1boWN_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dooy Şeftali Meyve Nektarı 200 ml",
+                "fiyat": 11.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/C9m2dFkGDi_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Premium Karışık Kuruyemiş 200 G",
+                "fiyat": 195.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/uENJLc3meL_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Premium Kuruyemiş Karışık 250 G",
+                "fiyat": 150.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/yyZPGiMGE5_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Tamek Meyve Nektarı Şeftali 200 ml",
+                "fiyat": 16.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/fedXNlSMRd_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Dovido Turna Yemişi 100 G ",
+                "fiyat": 45.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/ZmlOhWngOB_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Çerezya Tuzlu Karışık 200 G",
+                "fiyat": 83.5,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/9Ghob9twNY_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Altıntop Soslu Karışık Kuruyemiş 150 G ",
+                "fiyat": 49.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/krakQ30pLW_1024x1024.png"
+            },
+            {
+                "market": "A101",
+                "isim": "Tamek %100 Meyve Suyu Karışık 200 ml ",
+                "fiyat": 14.0,
+                "resim": "https://cdn2.a101.com.tr/dbmk89vnr/CALL/Image/get/QS1MPsxV1b_1024x1024.png"
             }
         ]
     }
